@@ -80,3 +80,6 @@ so that the users that are students know they can get a discount on the membersh
 ## Deployment
 
 ## Credits 
+
+### Images 
+https://www.pexels.com/photo/man-stretching-at-a-gym-4164458/ 
