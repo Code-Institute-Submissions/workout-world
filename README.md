@@ -7,8 +7,8 @@ In this section is the explanation of how the website is planed to make it usefu
 The objective of this website is to inform about the gym and its offer to new and existing members. 
 The target audience for the gym is people living in Stockholm whom wants to workout at a modern and friendly gym. 
 The user on the website is always going to be an anonymous user since it is not possible to log in to the website yet. 
-Users goal: wats to know more about the gym and what it offers.
-Site owners goal: to create and online presence of the gym and to inform about what the gym offers. 
+Users goal: wants to know more about the gym and what it offers.
+Site owners goal: to create an online presence of the gym and to inform about what the gym offers. 
 
 #### User stories 
 * As a user, I want to know what type of memberships the gym offers. 
@@ -63,7 +63,7 @@ to emeidietly let the user knows some of the advantages of the gym.
 * Underneath the memberships on the membership page there will be a picture where the student discound is presented 
 so that the users that are students know they can get a discount on the memberships. 
 * On the Class schedule page underneath the navbar there will be a heroimage with the main heading on it. 
-* Underneath the hroimage on the class schedule page the schedule for the classes will be so the user can se when the classes take place. 
+* Underneath the heroimage on the class schedule page the schedule for the classes will be so the user can se when the classes take place. 
 * Underneath the schedule for the classes the instructors will be shortly presented so that the user can get to know the different instructurs a little. 
 * On the contactpage under the navbar the different ways to contact the gym will be presented so that the user know the different ways they can contact the gym. 
 * Underneath the diffrent ways to contact the gym there will be a contact form if the user wants to fill that out instead of using some of the other ways to contact the gym. 

@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700&family=Montserrat:wght@400;500;600;700;800;900&display=swap');
+
+/* ----------------------------------- navigation */
+
+#navbar li {
+    list-style: none;
+    float: left;
+    display: inline; 
+    color: green;
+}
+
+#navbar li a {
+    padding-left: 20px;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+}
