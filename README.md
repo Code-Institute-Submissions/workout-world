@@ -82,4 +82,4 @@ so that the users that are students know they can get a discount on the membersh
 ## Credits 
 
 ### Images 
-https://www.pexels.com/photo/man-stretching-at-a-gym-4164458/ 
+https://www.pexels.com/photo/woman-doing-crossfit-2294400/

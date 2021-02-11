@@ -3,15 +3,38 @@
 * {
     margin: 0;
     padding: 0;
-    background-color: #0b0c10;
 }
+/* ----------------------------------- styling for several different sections */
+
+.hero-text {
+    position: absolute;
+    top: 25%;
+    bottom: 0;
+    left: 20%;
+    right: 0;
+    margin: auto;
+    font-family: "Montserrat", sans-serif;
+}
+
+.hero-text h2 {
+    color: #45a29e; 
+    text-transform: uppercase;
+    font-size: 600%;
+    font-weight: 700;
+}
+
+.hero-text p {
+    color: #c5c6c7;
+    font-size: 150%; 
+}
+
 /* ----------------------------------- header */
 #navbar {
     height: 75px;
     width: 100%;
     background-color: #0b0c10;
     display: flex;
-    align-items: center;
+    align-items: flex-end;
     position: fixed;
     box-shadow: 0 4px 3px 1px rgba(0, 0, 0, 0.2);
     border-radius: 5px;
@@ -68,7 +91,8 @@
     position: absolute;
     top: 15%;
     bottom: 0;
-    left: 5%;
+    left: 0;
     right: 0;
     margin: auto;
 }
+
