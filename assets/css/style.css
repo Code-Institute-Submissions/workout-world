@@ -2,13 +2,10 @@
 
 /* ----------------------------------- styling for several different sections */
 
-.logo {
-    text-decoration: none;
-}
-
 .logo h1 {
+    text-decoration: none;
     font-weight: 700;
-    font-size: 200%;
+    font-size: 150%;
     text-transform: uppercase;
     color: #45a29e;
 }
@@ -49,29 +46,17 @@ i {
 }
 
 /* ----------------------------------- header */
-#navbar {
-    height: 75px;
-    width: 100%;
+.navbar {
     background-color: #0b0c10;
-    display: flex;
-    align-items: flex-end;
-    position: fixed;
     box-shadow: 0 4px 3px 1px rgba(0, 0, 0, 0.2);
     border-radius: 5px;
     z-index: 2;
-}
-
-#logo-nav {
-    margin-left: 100px;
-}
-
-#menu {
-    margin-left: 50px;
+    position: fixed;
+    width: 100vw;
 }
 
 #menu li {
-    display: inline-block;
-    margin-left: 20px;
+    margin-right: 20px;
 }
 
 #menu li a {
