@@ -99,6 +99,7 @@ i {
 
 .reasons {
     background-color: #1f2833;
+    width: 100%;
 }
 #reasons-heading {
     padding: 70px 0 70px 0;
@@ -117,7 +118,7 @@ i {
     text-align: center;
     padding: 30px 15px 15px 15px;
     border-radius: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 10rem;
 }
 
 
