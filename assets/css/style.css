@@ -1,10 +1,18 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700&family=Montserrat:wght@400;500;600;700;800;900&display=swap');
 
-* {
-    margin: 0;
-    padding: 0;
-}
 /* ----------------------------------- styling for several different sections */
+
+.logo {
+    text-decoration: none;
+}
+
+.logo h1 {
+    font-weight: 700;
+    font-size: 200%;
+    text-transform: uppercase;
+    color: #45a29e;
+}
+
 h1, h2, h3 {
     font-family: "Montserrat", sans-serif;
 }
@@ -53,16 +61,8 @@ i {
     z-index: 2;
 }
 
-#logo {
+#logo-nav {
     margin-left: 100px;
-    text-decoration: none;
-}
-
-#logo h1 {
-    font-weight: 700;
-    font-size: 200%;
-    text-transform: uppercase;
-    color: #45a29e;
 }
 
 #menu {
@@ -87,7 +87,7 @@ i {
     color: #66fcf1; 
 }
 
-/* ----------------------------------- one week free */
+/* ----------------------------------- hero-index */
  
 #index-hero {
     width: 100%;
@@ -110,34 +110,52 @@ i {
 /* ----------------------------------- reasons */
 
 .reasons {
-    background-color: #0b0c10;
+    background-color: #1f2833;
 }
 #reasons-heading {
-    text-align: center;
-    padding: 70px 0 50px 0;
+    padding: 70px 0 70px 0;
     color: #45a29e;
-}    
-    
-.reasons-items {
-    width: 100%;
-    height: 80vh;
-    display: flex;
-    justify-content: space-evenly;
+    text-align: center;
+} 
+
+#reasons-items {
+    padding-bottom: 100px;
 }
 
 .reasons-item {
     width: 250px;
     height: 300px;
     background: white;
-    background: linear-gradient(to right bottom, 
-    rgba(255, 255, 255, 0,7), 
-    rgba(255, 255, 255, 0,3)
-    );
     text-align: center;
     padding: 30px 15px 15px 15px;
     border-radius: 10px;
+    margin-bottom: 20px;
 }
+
 
 .reasons-item p {
     color: #0b0c10;
 } 
+
+/* ----------------------------------- footer */
+
+footer {
+    height: 100px;
+    width: 100%;
+    background-color: #0b0c10;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.social i {
+    color: #c5c6c7;
+}
+
+#logo-footer {
+    margin-left: 100px;
+}
+
+#contact-footer {
+    margin-right: 100px;
+}
