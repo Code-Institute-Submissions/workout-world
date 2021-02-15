@@ -77,6 +77,9 @@ so that the users that are students know they can get a discount on the membersh
 
 ## Testing
 
+### Bugs 
+* It's a gap on the screen to the left on mobile verision that disepears after pressing something. 
+
 ## Deployment
 
 ## Credits 
