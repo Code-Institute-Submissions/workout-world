@@ -238,11 +238,14 @@ label {
     color: #c5c6c7;
 }
 
+#message {
+    height: 150px;
+}
+
 @media(min-width: 960px) {
     .contact-form {
     max-width: 30%;
     }
-}
 
 /* ----------------------------------- membership */
 .memberships {
