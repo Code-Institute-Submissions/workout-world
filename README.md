@@ -81,5 +81,8 @@ so that the users that are students know they can get a discount on the membersh
 
 ## Credits 
 
+The navbar is taken from bootstrap and costomized to fit my project. 
+Bootstrap is used to make the content responsive. 
+
 ### Images 
 https://www.pexels.com/photo/woman-doing-crossfit-2294400/
