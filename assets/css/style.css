@@ -15,6 +15,46 @@ p {
  color: #c5c6c7;
 }
 
+.img-box {
+    width: 100%;
+    height: 80vh;
+    position: relative;
+    overflow: hidden;
+    background: rgba(0, 0, 0, 1)
+}
+
+.text-img {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 20%;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    object-fit: cover;
+}
+
+@media(max-width: 720px) {
+    .text-img {
+    display: none;
+    }
+}
+
+.img-small {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    margin: auto;
+    object-fit: cover;
+}
+
+@media(min-width: 720px) {
+    .img-small {
+    display: none;
+    }
+}
+
 .image-text {
     position: relative;
     top: 30%;
@@ -100,46 +140,10 @@ i {
 /* ----------------------------------- hero-index */
 
 #index-hero {
-    width: 100%;
-    height: 80vh;
-    position: relative;
-    overflow: hidden;
-    background: rgba(0, 0, 0, 1)
-}
-#index-hero img {
-    position: absolute;
-    width: 100%;
-    height: 100%;
     top: 20%;
     bottom: 0;
     left: 0;
     right: 0;
-    margin: auto;
-    object-fit: cover;
-}
-
-@media(max-width: 720px) {
-    #index-hero img {
-    display: none;
-    }
-}
-
-.hero-img-small {
-    position: relative;
-    width: 100%;
-    height: 100%;
-    top: 20%;
-    bottom: 0;
-    left: 0;
-    right: 0;
-    margin: auto;
-    object-fit: cover;
-}
-
-@media(min-width: 720px) {
-    .hero-img-small {
-    display: none;
-    }
 }
 
 /* ----------------------------------- reasons */
@@ -240,8 +244,26 @@ label {
     }
 }
 
-/* ----------------------------------- contact form */
+/* ----------------------------------- membership */
 .memberships {
     background-color: #1f2833;
 }
 
+.membership-item {
+    width: 250px;
+    height: 300px;
+    background: white;
+    text-align: center;
+    padding: 30px 15px 15px 15px;
+    border-radius: 10px;
+    margin-bottom: 10rem;
+}
+
+/* ----------------------------------- student discount */
+
+#img-student {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
