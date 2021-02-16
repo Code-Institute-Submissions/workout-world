@@ -260,8 +260,6 @@ label {
 
 /* ----------------------------------- student discount */
 
-
-
 /* ----------------------------------- schedule hero */
 
 /* ----------------------------------- class schedule */
@@ -300,4 +298,20 @@ label {
     margin: 10px 0 10px 0;
 }
 
+/* ----------------------------------- meet our instructors */
+.instructors {
+    background-color: #1f2833;
+    width: 100%;
+    padding: 10rem 0 10rem 0;
+    text-align: center;
+}
+
+#instructors-heading {
+    color: #c5c6c7;
+    margin-bottom: 50px;
+}
+
+.instructor {
+    color: #c5c6c7;
+}
 
