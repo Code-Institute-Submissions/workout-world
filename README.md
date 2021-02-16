@@ -90,3 +90,4 @@ Bootstrap is used to make the content responsive.
 ### Images 
 https://www.pexels.com/photo/woman-doing-crossfit-2294400/
 https://www.pexels.com/photo/man-sitting-on-the-floor-and-stretching-4164770/
+https://www.pexels.com/photo/two-men-lying-on-gym-floor-beside-black-barbell-2261483/
