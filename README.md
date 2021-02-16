@@ -91,3 +91,6 @@ Bootstrap is used to make the content responsive.
 https://www.pexels.com/photo/woman-doing-crossfit-2294400/
 https://www.pexels.com/photo/man-sitting-on-the-floor-and-stretching-4164770/
 https://www.pexels.com/photo/two-men-lying-on-gym-floor-beside-black-barbell-2261483/
+https://www.pexels.com/photo/smiling-woman-with-red-hair-1987301/
+https://www.pexels.com/photo/man-takes-selfie-1680175/
+https://www.pexels.com/photo/portrait-photo-of-smiling-man-with-his-arms-crossed-standing-in-front-of-white-wall-2379004/

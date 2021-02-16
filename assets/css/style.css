@@ -311,6 +311,42 @@ label {
     margin-bottom: 50px;
 }
 
+.img-circle {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    background: #0b0c10;
+    overflow: hidden;
+    position: relative;
+}
+
+.instructor-img {
+     object-fit: cover;
+     max-width: 100%;
+     position: absolute;
+}
+
+#anna {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+#philip {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
+#kalle {
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+}
+
 .instructor {
     color: #c5c6c7;
 }
