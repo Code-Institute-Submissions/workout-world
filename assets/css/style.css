@@ -262,4 +262,42 @@ label {
 
 
 
-/* ----------------------------------- schedule */
+/* ----------------------------------- schedule hero */
+
+/* ----------------------------------- class schedule */
+
+/*.schedule-container {
+    background: #c5c6c7;
+    height: 500px;
+    margin-top: 5rem;
+    margin-bottom: 10rem;
+    border-radius: 10px;
+    padding-left:20px;
+    padding-right: 20px;
+}*/
+
+.schedule-item {
+    height: 440px;
+    width: 140%;
+    background: #0b0c10;
+    text-align: center;
+    border-radius: 10px;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    padding: 20px 10px 20px 10px;
+}
+
+.schedule-weekday {
+    height: 40px;
+    background: #45a29e;
+    border-radius: 5px; 
+}
+
+.schedule-section {
+    height: 50px;
+    background: #45a29e;
+    border-radius: 5px;
+    margin: 10px 0 10px 0;
+}
+
+
