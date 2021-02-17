@@ -99,9 +99,8 @@ The navbar is taken from bootstrap and costomized to fit my project.
 Bootstrap is used to make the content responsive. 
 
 ### Images 
-https://www.pexels.com/photo/woman-doing-crossfit-2294400/
-https://www.pexels.com/photo/man-sitting-on-the-floor-and-stretching-4164770/
-https://www.pexels.com/photo/two-men-lying-on-gym-floor-beside-black-barbell-2261483/
-https://www.pexels.com/photo/smiling-woman-with-red-hair-1987301/
-https://www.pexels.com/photo/man-takes-selfie-1680175/
-https://www.pexels.com/photo/portrait-photo-of-smiling-man-with-his-arms-crossed-standing-in-front-of-white-wall-2379004/
+* Hero image on home page by [Li Sun](https://www.pexels.com/@823sl) from [pexels](https://www.pexels.com/) 
+* Student discount picture on memberships page by [Ivan Samkov](https://www.pexels.com/@ivan-samkov) from [pexels](https://www.pexels.com/) 
+* Hero image on class schedule page by [Victor Freitas](https://www.pexels.com/@victorfreitas) from [pexels](https://www.pexels.com/) 
+* Picture of the instructor Kalle at class schedule page by [Elle Hughes](https://www.pexels.com/@elletakesphotos) from [pexels](https://www.pexels.com/)
+* Picture of the instructor Philip at class schedule page by [Italo Melo](https://www.pexels.com/@italo-melo-881954) from [pexels](https://www.pexels.com/)
