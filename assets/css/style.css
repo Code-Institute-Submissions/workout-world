@@ -15,6 +15,8 @@ p {
  color: #c5c6c7;
 }
 
+/* ----------------------------------- image with text */
+
 .img-box {
     width: 100%;
     height: 80vh;
@@ -99,10 +101,16 @@ i {
 
 .logo h1 {
     font-weight: 900;
-    font-size: 130%;
+    font-size: 110%;
     text-transform: uppercase;
     color: #45a29e;
     text-decoration: none;
+}
+
+.logo h1 span {
+    color: #66fcf1;
+    font-size: 130%;
+    letter-spacing: -3px;
 }
 
 /* ----------------------------------- header */
@@ -178,11 +186,15 @@ footer {
 }
 
 .footer-item {
-    padding: 0 1rem;
+    padding: 1rem 1rem;
 }
 
 .footer-item i {
     color: #c5c6c7;
+}
+
+.footer-contact {
+    font-size: 110%;
 }
 
 /* ----------------------------------- contact */
@@ -271,7 +283,7 @@ label {
     margin-bottom: 10rem;
     border-radius: 10px;
     padding-left:20px;
-    padding-right: 20px;
+    padding-right: 20px; 
 }*/
 
 .schedule-item {
@@ -302,7 +314,7 @@ label {
 .instructors {
     background-color: #1f2833;
     width: 100%;
-    padding: 10rem 0 10rem 0;
+    padding: 5rem 0 10rem 0;
     text-align: center;
 }
 
