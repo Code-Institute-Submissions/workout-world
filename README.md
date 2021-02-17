@@ -102,5 +102,5 @@ Bootstrap is used to make the content responsive.
 * Hero image on home page by [Li Sun](https://www.pexels.com/@823sl) from [pexels](https://www.pexels.com/) 
 * Student discount picture on memberships page by [Ivan Samkov](https://www.pexels.com/@ivan-samkov) from [pexels](https://www.pexels.com/) 
 * Hero image on class schedule page by [Victor Freitas](https://www.pexels.com/@victorfreitas) from [pexels](https://www.pexels.com/) 
-* Picture of the instructor Kalle at class schedule page by [Elle Hughes](https://www.pexels.com/@elletakesphotos) from [pexels](https://www.pexels.com/)
-* Picture of the instructor Philip at class schedule page by [Italo Melo](https://www.pexels.com/@italo-melo-881954) from [pexels](https://www.pexels.com/)
+* Picture of the instructor Kalle on class schedule page by [Elle Hughes](https://www.pexels.com/@elletakesphotos) from [pexels](https://www.pexels.com/)
+* Picture of the instructor Philip on class schedule page by [Italo Melo](https://www.pexels.com/@italo-melo-881954) from [pexels](https://www.pexels.com/)
