@@ -17,12 +17,12 @@ p {
 
 /* ----------------------------------- image with text */
 
-.img-box {
+.img-container {
     width: 100%;
     height: 80vh;
     position: relative;
     overflow: hidden;
-    background: rgba(0, 0, 0, 1)
+    background: #1f2833;
 }
 
 .text-img {
@@ -54,21 +54,13 @@ p {
 }
 
 .image-text {
-    position: relative;
+    position: absolute;
     top: 30%;
     bottom: 0;
     left: 20%;
     right: 0;
 }
-@media(max-width: 720px) {
-    .image-text {
-    position: relative;
-    top: 35%;
-    bottom: 0;
-    left: 10%;
-    right: 0;
-    }
-}
+
 .image-text h2 {
     color: #45a29e; 
     text-transform: uppercase;
@@ -150,6 +142,22 @@ i {
     right: 0;
 }
 
+@media(max-width: 720px) {
+    #container-index {
+    height: 50vh;
+    }
+}
+
+@media(max-width: 720px) {
+    #container-index .image-text {
+    position: absolute;
+    top: 30%;
+    bottom: 0;
+    left: 10%;
+    right: 0;
+    }
+}
+
 /* ----------------------------------- reasons */
 
 .reasons {
@@ -180,13 +188,12 @@ i {
 /* ----------------------------------- footer */
 
 footer {
-    width: 100%;
     background-color: #0b0c10;
-    padding: 2rem 0;
+    padding: 1.5rem 0;
 }
 
 .footer-item {
-    padding: 1rem 1rem;
+    margin: 1rem;
 }
 
 .footer-item i {
@@ -195,6 +202,7 @@ footer {
 
 .footer-contact {
     font-size: 110%;
+    margin-top: 1rem;
 }
 
 /* ----------------------------------- contact */
@@ -271,8 +279,38 @@ label {
 }
 
 /* ----------------------------------- student discount */
+@media(max-width: 720px) {
+    #container-membership {
+    height: 30vh;
+    }
+}
+
+@media(max-width: 720px) {
+    #container-membership .image-text {
+    position: absolute;
+    top: 10%;
+    bottom: 0;
+    left: 10%;
+    right: 0;
+    }
+}
 
 /* ----------------------------------- schedule hero */
+@media(max-width: 720px) {
+    #container-schedule {
+    height: 40vh;
+    }
+}
+
+@media(max-width: 720px) {
+    #container-schedule .image-text {
+    position: absolute;
+    top: 35%;
+    bottom: 0;
+    left: 10%;
+    right: 0;
+    }
+}
 
 /* ----------------------------------- class schedule */
 
@@ -362,4 +400,3 @@ label {
 .instructor {
     color: #c5c6c7;
 }
-
