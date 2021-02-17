@@ -234,6 +234,11 @@ footer {
     margin-bottom: 5rem;
 }
 
+.contact-item p {
+    color: #0b0c10;
+}
+
+
 /* ----------------------------------- contact form */
 .contact-section {
     background-color: #060F1B;
@@ -266,18 +271,38 @@ label {
 /* ----------------------------------- membership */
 .memberships {
     background-color: #060F1B;
+    padding: 2rem;
+}
+
+#membership-heading {
+    margin: 10rem 0 2rem 0;
+    color: #45a29e;
+    text-align: center;
+} 
+
+#membership-text {
+    text-align: center;
+    margin-bottom: 3rem;
+    font-size: 125%;
 }
 
 .membership-item {
     width: 250px;
-    height: 300px;
+    height: 250px;
     background: white;
     text-align: center;
     padding: 30px 15px 15px 15px;
     border-radius: 10px;
-    margin-bottom: 10rem;
+    margin-bottom: 5rem;
 }
 
+.membership-item p {
+    color: #0b0c10;
+}
+
+.price {
+    font-size: 200%;
+}
 /* ----------------------------------- student discount */
 @media(max-width: 720px) {
     #container-membership {
