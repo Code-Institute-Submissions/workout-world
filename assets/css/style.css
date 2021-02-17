@@ -22,7 +22,7 @@ p {
     height: 80vh;
     position: relative;
     overflow: hidden;
-    background: #1f2833;
+    background: #060F1B;
 }
 
 .text-img {
@@ -151,7 +151,7 @@ i {
 @media(max-width: 720px) {
     #container-index .image-text {
     position: absolute;
-    top: 30%;
+    top: 27%;
     bottom: 0;
     left: 10%;
     right: 0;
@@ -161,7 +161,7 @@ i {
 /* ----------------------------------- reasons */
 
 .reasons {
-    background-color: #1f2833;
+    background-color: #060F1B;
     width: 100%;
 }
 #reasons-heading {
@@ -208,7 +208,7 @@ footer {
 /* ----------------------------------- contact */
 
 .contact {
-    background-color: #1f2833;
+    background-color: #060F1B;
     width: 100%;
 }
 #contact-heading {
@@ -236,7 +236,7 @@ footer {
 
 /* ----------------------------------- contact form */
 .contact-section {
-    background-color: #1f2833;
+    background-color: #060F1B;
 }
 
 #form-heading {
@@ -265,7 +265,7 @@ label {
 }
 /* ----------------------------------- membership */
 .memberships {
-    background-color: #1f2833;
+    background-color: #060F1B;
 }
 
 .membership-item {
@@ -350,7 +350,7 @@ label {
 
 /* ----------------------------------- meet our instructors */
 .instructors {
-    background-color: #1f2833;
+    background-color: #060F1B;
     width: 100%;
     padding: 5rem 0 10rem 0;
     text-align: center;
@@ -365,7 +365,6 @@ label {
     height: 100px;
     width: 100px;
     border-radius: 50%;
-    background: #0b0c10;
     overflow: hidden;
     position: relative;
 }
