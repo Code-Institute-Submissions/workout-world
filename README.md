@@ -77,6 +77,7 @@ The fallback font for both headings and bodytext is Sans-Seriff.
     - Navbar (described under home).
     - On the contactpage under the navbar the different ways to contact the gym will be presented so that the user know the different ways they can contact the gym. 
     - Underneath the diffrent ways to contact the gym there will be a contact form if the user wants to fill that out instead of using some of the other ways to contact the gym. 
+      This form will reload the page.  
     - Footer (described under home).
 
 ### Features Left to Implement
@@ -87,6 +88,27 @@ The fallback font for both headings and bodytext is Sans-Seriff.
 ## Technologies Used
 
 ## Testing
+
+1. Navbar 
+    * Clicking the logo reloads the home page. 
+    * Clicking the home link reloads the home page.
+    * Clicking the memberships link brings user to the membership page. 
+    * Clicking the class schedule link brings user to the class schedule page. 
+    * Clicking the contact link brings user to the contact page.
+    * Scrolling dow the page the navbar stays at the top of the browser window. 
+
+2. Footer 
+    * Clicking the logo reloads the home page. 
+    * Clicking the facebook icon brings user to facebook.com in a new browser window. 
+    * Clicking the instagram icon brings user to instagram.com in a new browser window. 
+    * Clicking the linkedin icon brings user to linkedin.com in a new browser window.
+    * Clicking he contact link brings user to the contact page.
+
+3. Contact form 
+    * Go to the contact page 
+    * Trying to submit the form emty and an error message appears to fill out required fields. 
+    * Trying to submit the form without a valid email adress and a error message appears. 
+    * Trying to submit the form with all the required information and the page reloads. 
 
 ### Bugs 
 * It's a gap on the screen to the left on mobile verision that disepears after pressing something. 
