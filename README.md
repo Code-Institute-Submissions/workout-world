@@ -98,7 +98,7 @@ The fallback font for both headings and bodytext is Sans-Seriff.
 The navbar is taken from bootstrap and costomized to fit my project. 
 Bootstrap is used to make the content responsive. 
 
-### Images 
+### Media 
 * Hero image on home page by [Li Sun](https://www.pexels.com/@823sl) from [pexels](https://www.pexels.com/) 
 * Student discount picture on memberships page by [Ivan Samkov](https://www.pexels.com/@ivan-samkov) from [pexels](https://www.pexels.com/) 
 * Hero image on class schedule page by [Victor Freitas](https://www.pexels.com/@victorfreitas) from [pexels](https://www.pexels.com/) 
