@@ -52,21 +52,32 @@ The fallback font for both headings and bodytext is Sans-Seriff.
 ## Features 
 
 ### Existing Features
-* The navbar will be sticky so that the user always can easily can get to different parts of the webpage 
-and become a dropdown menu on tablet and phone.
-* The footer will contain links to our social media accounts so the user can easily fin the gym on social media 
-and a link to the contact page so that it is always easy for the user to find out how they can contact the gym. 
-* The homepage will have a heroimage underneath the navbar with an offer on it to get the users attention. 
-* Underneath the heroimage on the homepage some of the benefits with the gym will be presented 
-to emeidietly let the user knows some of the advantages of the gym. 
-* On the membership page the three different memberships will be presented so that the user know what memberships are avalibe and their prices. 
-* Underneath the memberships on the membership page there will be a picture where the student discound is presented 
-so that the users that are students know they can get a discount on the memberships. 
-* On the Class schedule page underneath the navbar there will be a heroimage with the main heading on it. 
-* Underneath the heroimage on the class schedule page the schedule for the classes will be so the user can se when the classes take place. 
-* Underneath the schedule for the classes the instructors will be shortly presented so that the user can get to know the different instructurs a little. 
-* On the contactpage under the navbar the different ways to contact the gym will be presented so that the user know the different ways they can contact the gym. 
-* Underneath the diffrent ways to contact the gym there will be a contact form if the user wants to fill that out instead of using some of the other ways to contact the gym. 
+- Home
+    - The navbar will be sticky so that the user always can easily can get to different parts of the webpage 
+    and become a dropdown menu on tablet and phone. 
+    - The homepage will have a heroimage underneath the navbar with an offer on it to get the users attention. 
+    - Underneath the heroimage on the homepage some of the benefits with the gym will be presented 
+    to emeidietly let the user knows some of the advantages of the gym. 
+    - The footer will contain links to our social media accounts so the user can easily fin the gym on social media 
+    and a link to the contact page so that it is always easy for the user to find out how they can contact the gym.
+- Membership
+    - Navbar (described under home). 
+    - On the membership page the three different memberships will be presented so that the user know what memberships are avalibe and their prices. 
+    - Underneath the memberships on the membership page there will be a picture where the student discound is presented 
+    so that the users that are students know they can get a discount on the memberships.
+    - Footer (described under home).
+- Class schedule
+    - Navbar (described under home).
+    - On the Class schedule page underneath the navbar there will be a heroimage with the main heading on it. 
+    - Underneath the heroimage on the class schedule page the schedule for the classes will be so the user can se when the classes take place. 
+    - Underneath the schedule for the classes the instructors will be shortly presented so that the user can get to know the different instructurs a little. 
+    - Footer (described under home).
+    
+- Contact
+    - Navbar (described under home).
+    - On the contactpage under the navbar the different ways to contact the gym will be presented so that the user know the different ways they can contact the gym. 
+    - Underneath the diffrent ways to contact the gym there will be a contact form if the user wants to fill that out instead of using some of the other ways to contact the gym. 
+    - Footer (described under home).
 
 ### Features Left to Implement
 * A way to sign up to become a member on the website.
