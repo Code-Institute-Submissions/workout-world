@@ -52,33 +52,37 @@ The fallback font for both headings and bodytext is Sans-Seriff.
 ## Features 
 
 ### Existing Features
-- Home
+- Navbar
     - The navbar will be sticky so that the user always can easily can get to different parts of the webpage 
     and become a dropdown menu on tablet and phone. 
+- Footer 
+    - The footer will contain links to social media so the user can easily fin the gym on social media 
+    and a link to the contact page so that it is always easy for the user to find out how they can contact the gym.
+- Home
+    - Navbar (described under navbar)
     - The homepage will have a heroimage underneath the navbar with an offer on it to get the users attention. 
     - Underneath the heroimage on the homepage some of the benefits with the gym will be presented 
     to emeidietly let the user knows some of the advantages of the gym. 
-    - The footer will contain links to our social media accounts so the user can easily fin the gym on social media 
-    and a link to the contact page so that it is always easy for the user to find out how they can contact the gym.
+    - Footer (described under footer).
 - Membership
-    - Navbar (described under home). 
+    - Navbar (described under navbar). 
     - On the membership page the three different memberships will be presented so that the user know what memberships are avalibe and their prices. 
     - Underneath the memberships on the membership page there will be a picture where the student discound is presented 
     so that the users that are students know they can get a discount on the memberships.
-    - Footer (described under home).
+    - Footer (described under footer).
 - Class schedule
-    - Navbar (described under home).
+    - Navbar (described under navbar).
     - On the Class schedule page underneath the navbar there will be a heroimage with the main heading on it. 
     - Underneath the heroimage on the class schedule page the schedule for the classes will be so the user can se when the classes take place. 
     - Underneath the schedule for the classes the instructors will be shortly presented so that the user can get to know the different instructurs a little. 
-    - Footer (described under home).
+    - Footer (described under footer).
     
 - Contact
-    - Navbar (described under home).
+    - Navbar (described under navbar).
     - On the contactpage under the navbar the different ways to contact the gym will be presented so that the user know the different ways they can contact the gym. 
     - Underneath the diffrent ways to contact the gym there will be a contact form if the user wants to fill that out instead of using some of the other ways to contact the gym. 
       This form will reload the page.  
-    - Footer (described under home).
+    - Footer (described under footer).
 
 ### Features Left to Implement
 * A way to sign up to become a member on the website.
@@ -111,7 +115,7 @@ The fallback font for both headings and bodytext is Sans-Seriff.
     * Trying to submit the form with all the required information and the page reloads. 
 
 ### Bugs 
-* It's a gap on the screen to the right on mobile verision for everything but the navbarthat disepears after pressing something. Moto G4, Glaxy S5 pixel 2, pixel 2 XL Iphon 5/SE, iphone 6/7/8, iPhone X, Galaxy Fold, Surface duo.
+* It's a gap on the screen to the right on mobile verision for everything but the navbarthat disepears after pressing something on Moto G4, Glaxy S5 pixel 2, pixel 2 XL Iphon 5/SE, iphone 6/7/8, iPhone X, Galaxy Fold, Surface duo in Chrome DevTools.
   After googling this problem i started to check that i didn't have any element that was exceeding more than 100% of the screen width. I could'n fint any so I inserted overflow-x: hidden for html and body
   in my css file that i found in [this](https://stackoverflow.com/questions/46012482/unwanted-white-space-on-right-side-in-mobile-view/46012924) thread on stack overflow that fixed the problem. 
 * Images don't work when deploying the website on github. Fixed this by changing the image filepaths from absolute to relative instead. 
