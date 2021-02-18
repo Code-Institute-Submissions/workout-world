@@ -111,8 +111,10 @@ The fallback font for both headings and bodytext is Sans-Seriff.
     * Trying to submit the form with all the required information and the page reloads. 
 
 ### Bugs 
-* It's a gap on the screen to the left on mobile verision that disepears after pressing something.
-* Images don't work when deploying the website. 
+* It's a gap on the screen to the right on mobile verision for everything but the navbarthat disepears after pressing something. Moto G4, Glaxy S5 pixel 2, pixel 2 XL Iphon 5/SE, iphone 6/7/8, iPhone X, Galaxy Fold, Surface duo.
+  After googling this problem i started to check that i didn't have any element that was exceeding more than 100% of the screen width. I could'n fint any so I inserted overflow-x: hidden for html and body
+  in my css file that i found in [this](https://stackoverflow.com/questions/46012482/unwanted-white-space-on-right-side-in-mobile-view/46012924) thread on stack overflow that fixed the problem. 
+* Images don't work when deploying the website on github. Fixed this by changing the image filepaths from absolute to relative instead. 
 ## Deployment
 
 ## Credits 

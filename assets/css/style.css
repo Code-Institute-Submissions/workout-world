@@ -1,9 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700&family=Montserrat:wght@400;500;600;700;800;900&display=swap');
 
-/* ----------------------------------- general */
+/* general */
 * {
     margin: 0;
     padding: 0;
+}
+
+/* this was found on stack overflow to fix the issue with white space on some mobile screens */
+html,body{
+    overflow-x: hidden;
 }
 
 h1, h2, h3 {
@@ -15,8 +20,7 @@ p {
  color: #c5c6c7;
 }
 
-/* ----------------------------------- image with text */
-
+/* image with text */
 .img-container {
     width: 100%;
     height: 80vh;
@@ -89,8 +93,7 @@ i {
     color: #0b0c10;
 }
 
-/* ----------------------------------- logo */
-
+/* logo */
 .logo h1 {
     font-weight: 900;
     font-size: 110%;
@@ -105,8 +108,7 @@ i {
     letter-spacing: -3px;
 }
 
-/* ----------------------------------- navbar */
-
+/* navbar */
 .navbar {
     background-color: #0b0c10;
     box-shadow: 0 4px 3px 0px;
@@ -129,7 +131,26 @@ i {
     color: #c5c6c7;
 }
 
-/* ----------------------------------- hero-index */
+/* footer */
+footer {
+    background-color: #0b0c10;
+    padding: 1.5rem 0;
+}
+
+.footer-item {
+    margin: 1rem;
+}
+
+.footer-item i {
+    color: #c5c6c7;
+}
+
+.footer-contact {
+    font-size: 110%;
+    margin-top: 1rem;
+}
+
+/* hero-index */
 .index-hero {
     top: 20%;
     bottom: 0;
@@ -153,8 +174,7 @@ i {
     }
 }
 
-/* ----------------------------------- reasons */
-
+/* reasons */
 .reasons {
     background-color: #060F1B;
     width: 100%;
@@ -165,43 +185,172 @@ i {
     text-align: center;
 } 
 
+/* to style the shape, size, color and position to elements arount and inside */
 .reasons-item {
     width: 250px;
     height: 300px;
-    background: white;
+    background: #fff;
     text-align: center;
     padding: 30px 15px 15px 15px;
     border-radius: 10px;
     margin-bottom: 10rem;
 }
 
-
 .reasons-item p {
     color: #0b0c10;
 } 
 
-/* ----------------------------------- footer */
-
-footer {
-    background-color: #0b0c10;
-    padding: 1.5rem 0;
+/* membership */
+.memberships {
+    background-color: #060F1B;
+    padding: 2rem;
 }
 
-.footer-item {
-    margin: 1rem;
+.membership-heading {
+    margin: 10rem 0 2rem 0;
+    color: #45a29e;
+    text-align: center;
+} 
+
+.membership-text {
+    text-align: center;
+    margin-bottom: 3rem;
+    font-size: 125%;
 }
 
-.footer-item i {
+/* to style the shape, size, color and position to elements arount and inside */
+.membership-item {
+    width: 250px;
+    height: 250px;
+    background: #fff;
+    text-align: center;
+    padding: 30px 15px 15px 15px;
+    border-radius: 10px;
+    margin-bottom: 5rem;
+}
+
+.membership-item p {
+    color: #0b0c10;
+}
+
+.price {
+    font-size: 200%;
+}
+
+/* student discount */
+@media(max-width: 720px) {
+    .container-discount {
+    height: 30vh;
+    }
+}
+
+@media(max-width: 720px) {
+    .container-discount .image-text {
+    position: absolute;
+    top: 10%;
+    bottom: 0;
+    left: 10%;
+    right: 0;
+    }
+}
+
+/* schedule hero */
+@media(max-width: 720px) {
+    .container-schedule {
+    height: 35vh;
+    }
+}
+
+@media(max-width: 720px) {
+    .container-schedule .image-text {
+    position: absolute;
+    top: 42%;
+    bottom: 0;
+    left: 10%;
+    right: 0;
+    }
+}
+
+/* class schedule */
+/*.schedule-container {
+    background: #c5c6c7;
+    height: 500px;
+    width: 1200px;
+    margin-bottom: 10rem;
+    border-radius: 10px;
+    padding-left:20px;
+    padding-right: 20px;
+} */
+
+.schedule {
+    margin-top: 7rem;
+    margin-bottom: 7rem;
+}
+
+/* to style the shape, size, color and position to elements arount and inside */
+.schedule-item {
+    height: 440px;
+    width: 120%;
+    background: #0b0c10;
+    text-align: center;
+    border-radius: 7px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    padding: 20px 10px 20px 10px;
+}
+
+.schedule-weekday {
+    height: 40px;
+    background: #45a29e;
+    border-radius: 5px; 
+}
+
+.schedule-section {
+    height: 50px;
+    background: #45a29e;
+    border-radius: 5px;
+    margin: 10px 0 10px 0;
+}
+
+/* meet our instructors */
+.instructors {
+    background-color: #060F1B;
+    width: 100%;
+    padding: 5rem 0 10rem 0;
+    text-align: center;
+}
+
+.instructors-heading {
+    color: #45a29e;
+    margin-bottom: 50px;
+}
+
+/* to style the shape, size and position to elements arount and inside */
+.img-circle {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    overflow: hidden;
+    position: relative;
+    margin: auto;
+    margin-bottom: 1rem;
+}
+/* to position the images in the img-circle */
+.instructor-img {
+     object-fit: cover;
+     max-width: 100%;
+     position: absolute;
+     top: 0;
+     bottom: 0;
+     left: 0;
+     right: 0;
+}
+
+.instructor {
     color: #c5c6c7;
 }
 
-.footer-contact {
-    font-size: 110%;
-    margin-top: 1rem;
-}
-
-/* ----------------------------------- contact */
-
+/* contact */
 .contact {
     background-color: #060F1B;
     width: 100%;
@@ -219,6 +368,7 @@ footer {
 
 }
 
+/* to style the shape, size, color and position to elements arount and inside */
 .contact-item {
     width: 250px;
     height: 300px;
@@ -234,7 +384,7 @@ footer {
 }
 
 
-/* ----------------------------------- contact form */
+/* contact form */
 .contact-section {
     background-color: #060F1B;
 }
@@ -262,150 +412,4 @@ label {
     .contact-form {
     max-width: 30%;
     }
-}
-/* ----------------------------------- membership */
-.memberships {
-    background-color: #060F1B;
-    padding: 2rem;
-}
-
-.membership-heading {
-    margin: 10rem 0 2rem 0;
-    color: #45a29e;
-    text-align: center;
-} 
-
-.membership-text {
-    text-align: center;
-    margin-bottom: 3rem;
-    font-size: 125%;
-}
-
-.membership-item {
-    width: 250px;
-    height: 250px;
-    background: white;
-    text-align: center;
-    padding: 30px 15px 15px 15px;
-    border-radius: 10px;
-    margin-bottom: 5rem;
-}
-
-.membership-item p {
-    color: #0b0c10;
-}
-
-.price {
-    font-size: 200%;
-}
-/* ----------------------------------- student discount */
-@media(max-width: 720px) {
-    .container-discount {
-    height: 30vh;
-    }
-}
-
-@media(max-width: 720px) {
-    .container-discount .image-text {
-    position: absolute;
-    top: 10%;
-    bottom: 0;
-    left: 10%;
-    right: 0;
-    }
-}
-
-/* ----------------------------------- schedule hero */
-@media(max-width: 720px) {
-    .container-schedule {
-    height: 35vh;
-    }
-}
-
-@media(max-width: 720px) {
-    .container-schedule .image-text {
-    position: absolute;
-    top: 42%;
-    bottom: 0;
-    left: 10%;
-    right: 0;
-    }
-}
-
-/* ----------------------------------- class schedule */
-
-/*.schedule-container {
-    background: #c5c6c7;
-    height: 500px;
-    width: 1200px;
-    margin-bottom: 10rem;
-    border-radius: 10px;
-    padding-left:20px;
-    padding-right: 20px;
-} */
-
-.schedule {
-    margin-top: 7rem;
-    margin-bottom: 7rem;
-}
-
-.schedule-item {
-    height: 440px;
-    width: 120%;
-    background: #0b0c10;
-    text-align: center;
-    border-radius: 7px;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-    padding: 20px 10px 20px 10px;
-}
-
-.schedule-weekday {
-    height: 40px;
-    background: #45a29e;
-    border-radius: 5px; 
-}
-
-.schedule-section {
-    height: 50px;
-    background: #45a29e;
-    border-radius: 5px;
-    margin: 10px 0 10px 0;
-}
-
-/* ----------------------------------- meet our instructors */
-.instructors {
-    background-color: #060F1B;
-    width: 100%;
-    padding: 5rem 0 10rem 0;
-    text-align: center;
-}
-
-.instructors-heading {
-    color: #45a29e;
-    margin-bottom: 50px;
-}
-
-.img-circle {
-    height: 100px;
-    width: 100px;
-    border-radius: 50%;
-    overflow: hidden;
-    position: relative;
-    margin: auto;
-    margin-bottom: 1rem;
-}
-/* to position the images in the img-circle */
-.instructor-img {
-     object-fit: cover;
-     max-width: 100%;
-     position: absolute;
-     top: 0;
-     bottom: 0;
-     left: 0;
-     right: 0;
-}
-
-.instructor {
-    color: #c5c6c7;
 }
