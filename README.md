@@ -126,14 +126,17 @@ The fallback font for both headings and bodytext is Sans-Seriff.
 ### Bugs 
 * It's a gap on the screen to the right on mobile verision for everything but the navbarthat disepears after pressing something on Moto G4, Glaxy S5 pixel 2, pixel 2 XL Iphon 5/SE, iphone 6/7/8, iPhone X, Galaxy Fold, Surface duo in Chrome DevTools.
   After googling this problem i started to check that i didn't have any element that was exceeding more than 100% of the screen width. I could'n fint any so I inserted overflow-x: hidden for html and body
-  in my css file that i found in [this](https://stackoverflow.com/questions/46012482/unwanted-white-space-on-right-side-in-mobile-view/46012924) thread on stack overflow that fixed the problem. 
+  in my css file that i found in [this](https://stackoverflow.com/questions/46012482/unwanted-white-space-on-right-side-in-mobile-view/46012924) thread on Stack Overflow that fixed the problem. 
 * Images don't work when deploying the website on github. Fixed this by changing the image filepaths from absolute to relative instead. 
 ## Deployment
 
 ## Credits 
 
-The navbar is taken from bootstrap and costomized to fit my project. 
-Bootstrap is used to make the content responsive. 
+### Code 
+Most of the code in this project was written by me, however some of the code I got from other that are presented below. 
+* The navbar is taken from bootstrap and costomized to fit my project. 
+* Bootstrap is used to make the content responsive and to style some elements. 
+* In my css file I used a piece of code found in [this](https://stackoverflow.com/questions/46012482/unwanted-white-space-on-right-side-in-mobile-view/46012924) thred on Stack Overflow to fix a layout problem on smaller screensizes, this is described in more detail in the bugs section. 
 
 ### Media 
 * Hero image on home page by [Li Sun](https://www.pexels.com/@823sl) from [pexels](https://www.pexels.com/) 
