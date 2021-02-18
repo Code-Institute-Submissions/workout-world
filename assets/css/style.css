@@ -105,7 +105,7 @@ i {
     letter-spacing: -3px;
 }
 
-/* ----------------------------------- header */
+/* ----------------------------------- navbar */
 
 .navbar {
     background-color: #0b0c10;
@@ -116,11 +116,11 @@ i {
     width: 100vw;
 }
 
-#menu li {
+.menu li {
     margin-right: 20px;
 }
 
-#menu li a {
+.menu li a {
     font-family: "Montserrat", sans-serif;
     font-weight: 500;
     font-size: 120%;
@@ -129,13 +129,8 @@ i {
     color: #c5c6c7;
 }
 
-#menu li a:hover {
-    color: #66fcf1; 
-}
-
 /* ----------------------------------- hero-index */
-
-#index-hero {
+.index-hero {
     top: 20%;
     bottom: 0;
     left: 0;
@@ -143,13 +138,13 @@ i {
 }
 
 @media(max-width: 720px) {
-    #container-index {
+    .container-index {
     height: 45vh;
     }
 }
 
 @media(max-width: 720px) {
-    #container-index .image-text {
+    .container-index .image-text {
     position: absolute;
     top: 33%;
     bottom: 0;
@@ -164,7 +159,7 @@ i {
     background-color: #060F1B;
     width: 100%;
 }
-#reasons-heading {
+.reasons-heading {
     padding: 70px 0 70px 0;
     color: #45a29e;
     text-align: center;
@@ -211,13 +206,13 @@ footer {
     background-color: #060F1B;
     width: 100%;
 }
-#contact-heading {
+.contact-heading {
     margin: 200px 0 20px 0;
     color: #45a29e;
     text-align: center;
 } 
 
-#contact-text {
+.contact-text {
     text-align: center;
     margin-bottom: 50px;
     font-size: 125%;
@@ -244,7 +239,7 @@ footer {
     background-color: #060F1B;
 }
 
-#form-heading {
+.form-heading {
     text-align: center;
     padding: 100px 0 50px 0;
     color: #45a29e;
@@ -274,13 +269,13 @@ label {
     padding: 2rem;
 }
 
-#membership-heading {
+.membership-heading {
     margin: 10rem 0 2rem 0;
     color: #45a29e;
     text-align: center;
 } 
 
-#membership-text {
+.membership-text {
     text-align: center;
     margin-bottom: 3rem;
     font-size: 125%;
@@ -305,13 +300,13 @@ label {
 }
 /* ----------------------------------- student discount */
 @media(max-width: 720px) {
-    #container-membership {
+    .container-discount {
     height: 30vh;
     }
 }
 
 @media(max-width: 720px) {
-    #container-membership .image-text {
+    .container-discount .image-text {
     position: absolute;
     top: 10%;
     bottom: 0;
@@ -322,13 +317,13 @@ label {
 
 /* ----------------------------------- schedule hero */
 @media(max-width: 720px) {
-    #container-schedule {
+    .container-schedule {
     height: 35vh;
     }
 }
 
 @media(max-width: 720px) {
-    #container-schedule .image-text {
+    .container-schedule .image-text {
     position: absolute;
     top: 42%;
     bottom: 0;
@@ -386,7 +381,7 @@ label {
     text-align: center;
 }
 
-#instructors-heading {
+.instructors-heading {
     color: #45a29e;
     margin-bottom: 50px;
 }
@@ -400,32 +395,15 @@ label {
     margin: auto;
     margin-bottom: 1rem;
 }
-
+/* to position the images in the img-circle */
 .instructor-img {
      object-fit: cover;
      max-width: 100%;
      position: absolute;
-}
-
-#anna {
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-}
-
-#philip {
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
-}
-
-#kalle {
-    top: 0;
-    bottom: 0;
-    left: 0;
-    right: 0;
+     top: 0;
+     bottom: 0;
+     left: 0;
+     right: 0;
 }
 
 .instructor {
