@@ -90,6 +90,15 @@ The fallback font for both headings and bodytext is Sans-Seriff.
 * A google maps to see where the gym is located. 
 
 ## Technologies Used
+* HTML was used to build the webpage.
+* CSS was used to style the webpage.
+* Bootstrap was used to style some elements and to make the website responsive. 
+* Fontawesome was used for the icons. 
+* Google Fonts was used for the two fonts that I used in the project, Montserrat and Latol. 
+* Gitpod was used to code the website. 
+* Github was used to hoast the project. 
+* Balsamiq was used to create the wireframes. 
+* Photoshop was used to edit some of the images. 
 
 ## Testing
 
