@@ -111,8 +111,8 @@ The fallback font for both headings and bodytext is Sans-Seriff.
     * Trying to submit the form with all the required information and the page reloads. 
 
 ### Bugs 
-* It's a gap on the screen to the left on mobile verision that disepears after pressing something. 
-
+* It's a gap on the screen to the left on mobile verision that disepears after pressing something.
+* Images don't work when deploying the website. 
 ## Deployment
 
 ## Credits 
