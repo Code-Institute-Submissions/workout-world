@@ -6,7 +6,7 @@
     padding: 0;
 }
 
-/* this was found on stack overflow to fix the issue with white space on some mobile screens */
+/* this was found on stack overflow to fix the issue with white space on the left side on some mobile screens */
 html,body{
     overflow-x: hidden;
 }
@@ -272,31 +272,27 @@ footer {
 }
 
 /* class schedule */
-/*.schedule-container {
+.schedule-container {
     background: #c5c6c7;
-    height: 500px;
-    width: 1200px;
-    margin-bottom: 10rem;
+    height: 600;
+    width: 100%;
+    margin: 5rem 0 10rem 0;
     border-radius: 10px;
-    padding-left:20px;
-    padding-right: 20px;
-} */
-
-.schedule {
-    margin-top: 7rem;
-    margin-bottom: 7rem;
+    padding: 15px 30px 15px 30px;
 }
 
+.schedule-heading {
+    text-align: center;
+}
 /* to style the shape, size, color and position to elements arount and inside */
 .schedule-item {
-    height: 440px;
+    height: 420px;
     width: 120%;
     background: #0b0c10;
     text-align: center;
     border-radius: 7px;
-    margin-top: 2rem;
-    margin-bottom: 2rem;
-    padding: 20px 10px 20px 10px;
+    padding: 10px;
+    margin: 5px 0 5px 0;
 }
 
 .schedule-weekday {
@@ -344,10 +340,6 @@ footer {
      bottom: 0;
      left: 0;
      right: 0;
-}
-
-.instructor {
-    color: #c5c6c7;
 }
 
 /* contact */
