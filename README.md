@@ -98,6 +98,7 @@ The fallback font for both headings and bodytext is Sans-Seriff.
 * Gitpod was used to code the website. 
 * Github was used to hoast the project. 
 * Balsamiq was used to create the wireframes. 
+* Tinyjpg was used to compress the images. 
 * Photoshop was used to edit some of the images. 
 
 ## Testing
