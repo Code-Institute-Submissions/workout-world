@@ -138,6 +138,7 @@ Most of the code in this project was written by me, however some of the code I g
 * The navbar is taken from bootstrap and costomized to fit my project. 
 * Bootstrap is used to make the content responsive and to style some elements. 
 * In my css file I used a piece of code found in [this](https://stackoverflow.com/questions/46012482/unwanted-white-space-on-right-side-in-mobile-view/46012924) thred on Stack Overflow to fix a layout problem on smaller screensizes, this is described in more detail in the bugs section. 
+* I used a pice of code from [this](https://www.youtube.com/watch?v=O7WbVj5apxU&t=583s) youtube video made by Dev Ed to set the background on some items on the website, there are comment in the code in the regarding places. 
 
 ### Media 
 * Hero image on home page by [Li Sun](https://www.pexels.com/@823sl) from [pexels](https://www.pexels.com/) 

@@ -195,7 +195,14 @@ footer {
 .reasons-item {
     width: 250px;
     height: 300px;
+    /* this section is taken from Youtube tutorial made by Dev Ed*/
     background: #fff;
+    background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.9),
+    rgba(255, 255, 255, 0.7)
+    );
+    /* this section is taken from Youtube tutorial made by Dev Ed*/
     text-align: center;
     padding: 30px 15px 15px 15px;
     border-radius: 10px;
@@ -228,7 +235,14 @@ footer {
 .membership-item {
     width: 250px;
     height: 250px;
+    /* this section is taken from Youtube tutorial made by Dev Ed*/
     background: #fff;
+    background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.9),
+    rgba(255, 255, 255, 0.7)
+    );
+    /* this section is taken from Youtube tutorial made by Dev Ed*/
     text-align: center;
     padding: 30px 15px 15px 15px;
     border-radius: 10px;
@@ -376,7 +390,14 @@ footer {
 .contact-item {
     width: 250px;
     height: 300px;
+    /* this section is taken from Youtube tutorial made by Dev Ed*/
     background: #fff;
+    background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.9),
+    rgba(255, 255, 255, 0.7)
+    );
+    /* this section is taken from Youtube tutorial made by Dev Ed*/
     text-align: center;
     padding: 30px 15px 15px 15px;
     border-radius: 10px;
