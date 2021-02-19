@@ -278,17 +278,22 @@ footer {
 }
 
 /* class schedule */
+.schedule-background {
+    background-color: #0b0c10;
+    width: 100%;
+    padding: 5rem 0 10rem 0;
+}
 .schedule-container {
-    background: #c5c6c7;
+    background: #fff;
     height: 600;
     width: 100%;
-    margin: 5rem 0 10rem 0;
     border-radius: 10px;
     padding: 15px 30px 15px 30px;
 }
 
 .schedule-heading {
     text-align: center;
+    color: #0b0c10;
 }
 /* to style the shape, size, color and position to elements arount and inside */
 .schedule-item {
