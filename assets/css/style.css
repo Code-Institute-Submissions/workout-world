@@ -76,6 +76,7 @@ i {
     font-size: 500%;
     font-weight: 700;
 }
+
 @media(max-width: 720px) {
     .image-text h2 {
     font-size: 200%;
@@ -297,6 +298,7 @@ footer {
     width: 100%;
     padding: 5rem 0 10rem 0;
 }
+
 .schedule-container {
     /* this section is taken from Youtube tutorial made by Dev Ed*/
     background: #fff;
@@ -316,6 +318,7 @@ footer {
     text-align: center;
     color: #0b0c10;
 }
+
 /* to style the shape, size, color and position to elements arount and inside */
 .schedule-item {
     height: 420px;
@@ -380,6 +383,7 @@ footer {
     background-color: #060F1B;
     width: 100%;
 }
+
 .contact-heading {
     margin: 200px 0 20px 0;
     color: #45a29e;
@@ -432,6 +436,7 @@ footer {
     margin: 0 auto;
     padding: 2rem 0 10rem 0;
 }
+
 label {
     color: #c5c6c7;
 }
