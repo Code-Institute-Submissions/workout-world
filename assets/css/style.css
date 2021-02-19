@@ -327,8 +327,8 @@ footer {
 
 /* to style the shape, size and position to elements arount and inside */
 .img-circle {
-    height: 100px;
-    width: 100px;
+    height: 150px;
+    width: 150px;
     border-radius: 50%;
     overflow: hidden;
     position: relative;
