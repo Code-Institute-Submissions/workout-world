@@ -98,14 +98,19 @@ i {
     font-weight: 900;
     font-size: 110%;
     text-transform: uppercase;
-    color: #45a29e;
+    color: #66fcf1;
     text-decoration: none;
 }
 
 .logo h1 span {
-    color: #66fcf1;
     font-size: 130%;
     letter-spacing: -3px;
+}
+
+@media(max-width: 320px) {
+    .logo h1 {
+    font-size: 80%;
+    }
 }
 
 /* navbar */
@@ -314,6 +319,7 @@ footer {
     width: 100%;
     padding: 5rem 0 10rem 0;
     text-align: center;
+    color: #c5c6c7;
 }
 
 .instructors-heading {
