@@ -124,6 +124,7 @@ i {
 
 .menu li {
     margin-right: 20px;
+    color: #c5c6c7;
 }
 
 .menu li a {
@@ -148,7 +149,7 @@ footer {
 .footer-item i {
     color: #c5c6c7;
     font-size: 250%;
-    padding: 1rem;
+    padding: 1rem 0.2rem;
 }
 
 .footer-contact {
