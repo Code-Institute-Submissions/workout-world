@@ -20,6 +20,11 @@ p {
  color: #c5c6c7;
 }
 
+i {
+    font-size: 200%;
+    color: #0b0c10;
+}
+
 /* image with text */
 .img-container {
     width: 100%;
@@ -88,18 +93,12 @@ p {
     }
 }
 
-i {
-    font-size: 200%;
-    color: #0b0c10;
-}
-
 /* logo */
 .logo h1 {
     font-weight: 900;
     font-size: 110%;
     text-transform: uppercase;
     color: #66fcf1;
-    text-decoration: none;
 }
 
 .logo h1 span {
@@ -139,7 +138,7 @@ i {
 /* footer */
 footer {
     background-color: #0b0c10;
-    padding: 1.5rem 0;
+    padding-top: 2rem;
 }
 
 .footer-item {
@@ -148,11 +147,12 @@ footer {
 
 .footer-item i {
     color: #c5c6c7;
+    font-size: 250%;
+    padding: 1rem;
 }
 
 .footer-contact {
-    font-size: 110%;
-    margin-top: 1rem;
+    font-size: 120%;
 }
 
 /* hero-index */
