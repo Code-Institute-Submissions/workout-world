@@ -31,7 +31,7 @@ i {
     height: 80vh;
     position: relative;
     overflow: hidden;
-    background: #060F1B;
+    background: #0B1B30;
 }
 
 .text-img {
@@ -183,7 +183,7 @@ footer {
 
 /* reasons */
 .reasons {
-    background-color: #060F1B;
+    background-color: #0B1B30;
     width: 100%;
 }
 .reasons-heading {
@@ -216,7 +216,7 @@ footer {
 
 /* membership */
 .memberships {
-    background-color: #060F1B;
+    background-color: #0B1B30;
     padding: 2rem;
 }
 
@@ -345,7 +345,7 @@ footer {
 
 /* meet our instructors */
 .instructors {
-    background-color: #060F1B;
+    background-color: #0B1B30;
     width: 100%;
     padding: 5rem 0 10rem 0;
     text-align: center;
@@ -380,7 +380,7 @@ footer {
 
 /* contact */
 .contact {
-    background-color: #060F1B;
+    background-color: #0B1B30;
     width: 100%;
 }
 
@@ -422,7 +422,7 @@ footer {
 
 /* contact form */
 .contact-section {
-    background-color: #060F1B;
+    background-color: #0B1B30;
 }
 
 .form-heading {
