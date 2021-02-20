@@ -309,7 +309,7 @@ footer {
     rgba(255, 255, 255, 0.4)
     );
     /* this section is taken from Youtube tutorial made by Dev Ed*/
-    height: 600;
+    height: 100%;
     width: 100%;
     border-radius: 10px;
     padding: 15px 30px 15px 30px;
