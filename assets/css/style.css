@@ -262,6 +262,7 @@ footer {
 @media(max-width: 720px) {
     .container-discount {
     height: 30vh;
+    background: #0b0c10;
     }
 }
 
