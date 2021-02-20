@@ -130,6 +130,18 @@ The fallback font for both headings and bodytext is Sans-Seriff.
   in my css file that i found in [this](https://stackoverflow.com/questions/46012482/unwanted-white-space-on-right-side-in-mobile-view/46012924) thread on Stack Overflow that fixed the problem. 
 * Images don't work when deploying the website on github. Fixed this by changing the image filepaths from absolute to relative instead. 
 ## Deployment
+### Deploy 
+1. Log in to your github account. 
+2. Find the desired repository and click on it.
+3. In the toolbar click on Settings. 
+4. Scroll down until you get to GitHub Pages. 
+5. Select the branch master and click save. 
+6. The link is now avalible under GitHub Pages in the high-lighted green area. 
+7. When clicking on the link you will access the website. 
+### Run code locally
+1. Find the repository and click on it.
+2. Above all the files click on code next to the green gitpod button.  
+3. Here you can choose to clone the repository or to download a zip-file that you can unpack and deply in a local environment.
 
 ## Credits 
 
