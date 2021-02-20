@@ -95,16 +95,12 @@ i {
 
 .menu li {
     margin-right: 20px;
-    color: #c5c6c7;
 }
 
 .menu li a {
     font-family: "Montserrat", sans-serif;
     font-weight: 500;
     font-size: 120%;
-    list-style: none;
-    text-decoration: none;
-    color: #c5c6c7;
 }
 
 /* footer */
