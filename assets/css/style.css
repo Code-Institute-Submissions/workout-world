@@ -6,7 +6,7 @@
     padding: 0;
 }
 
-/* this was found on stack overflow to fix the issue with white space on the left side on some mobile screens */
+/* this was found on stack overflow to fix the issue with white space on the right side on some mobile screens */
 html,body{
     overflow-x: hidden;
 }
@@ -200,8 +200,8 @@ footer {
     background: #fff;
     background: linear-gradient(
     to right bottom,
-    rgba(255, 255, 255, 0.9),
-    rgba(255, 255, 255, 0.7)
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.4)
     );
     /* this section is taken from Youtube tutorial made by Dev Ed*/
     text-align: center;
@@ -240,8 +240,8 @@ footer {
     background: #fff;
     background: linear-gradient(
     to right bottom,
-    rgba(255, 255, 255, 0.9),
-    rgba(255, 255, 255, 0.7)
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.4)
     );
     /* this section is taken from Youtube tutorial made by Dev Ed*/
     text-align: center;
@@ -305,8 +305,8 @@ footer {
     background: #fff;
     background: linear-gradient(
     to right bottom,
-    rgba(255, 255, 255, 0.9),
-    rgba(255, 255, 255, 0.7)
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.4)
     );
     /* this section is taken from Youtube tutorial made by Dev Ed*/
     height: 600;
@@ -406,8 +406,8 @@ footer {
     background: #fff;
     background: linear-gradient(
     to right bottom,
-    rgba(255, 255, 255, 0.9),
-    rgba(255, 255, 255, 0.7)
+    rgba(255, 255, 255, 0.7),
+    rgba(255, 255, 255, 0.4)
     );
     /* this section is taken from Youtube tutorial made by Dev Ed*/
     text-align: center;
