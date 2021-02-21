@@ -151,6 +151,9 @@ the other days of the week and stretched the whole width of the screen.
 *	I put in a media query for the logo on screen sizes with a wax width of 320px to make the logo smaller because otherwise the logo and navigation
  menu didn’t fit on the same line and dropped down below the logo instead. 
 
+### Browsers 
+The webpage is tested on Google Chrome, Mozilla Firefox, Microsoft Edge, Safiari and Internet explorer. 
+
 ### Manual testing
 1. Navbar 
     * Clicking the logo reloads the home page.
@@ -177,10 +180,15 @@ the other days of the week and stretched the whole width of the screen.
     * Trying to submit the form with all the required information and the page reloads. 
 
 ### Bugs 
+#### Fixed buges
 * It's a gap on the screen to the right on mobile verision for everything but the navbarthat disepears after pressing something on Moto G4, Glaxy S5 pixel 2, pixel 2 XL Iphon 5/SE, iphone 6/7/8, iPhone X, Galaxy Fold, Surface duo in Chrome DevTools.
   After googling this problem i started to check that i didn't have any element that was exceeding more than 100% of the screen width. I could'n fint any so I inserted overflow-x: hidden for html and body
   in my css file that i found in [this](https://stackoverflow.com/questions/46012482/unwanted-white-space-on-right-side-in-mobile-view/46012924) thread on Stack Overflow that fixed the problem. 
 * Images don't work when deploying the website on github. Fixed this by changing the image filepaths from absolute to relative instead.
+
+#### Known bugs thats not fixed 
+* Hero images on Class Schedule page and home page and the student discount picture get a bit squashed on internet explorer. 
+
  
 ## Deployment
 ### Deploy 
