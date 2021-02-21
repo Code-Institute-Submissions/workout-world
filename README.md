@@ -28,7 +28,7 @@ For the structure of the page is designed with a linear narrative to make the si
 The navigation bar is placed at the top of the browser window and is sticky so that it is easy to go where you want on the website.
 On the landingpage of the site more genreal information and an offer is representet and then you can move on to more detaild information on the other sides of the webpage. 
 ### 4 Skeleton
-Wireframes where developed for the website to ensure that the content is presentent is in line with the strategy and gole of the website and to make sure that the arragement amongst the emelments work. 
+Wireframes where developed for the website to ensure that the content is presentent is in line with the strategy and goal of the website and to make sure that the arragement amongst the emelments work. 
 Visual methaphors in the form of icons is used in some places to make the content easier to interpret for the user. 
 For the structure the more general information and perks of the gym is represented because this content is proritised to get users interested. When you continue on the navbar 
 to the right more detail information is presented for those who are interested and furtherst to the right in the navbar the contact page is placed. 
