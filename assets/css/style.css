@@ -436,7 +436,7 @@ label {
 /* schedule hero */
 @media(max-width: 720px) {
     .container-schedule {
-    height: 35vh;
+    height: 40vh;
     }
 }
 
