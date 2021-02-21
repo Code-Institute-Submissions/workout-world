@@ -90,7 +90,7 @@ The fallback font for both headings and bodytext is Sans-Seriff.
 * A google maps to see where the gym is located. 
 
 ## Technologies Used
-* [HTML5](https://en.wikipedia.org/wiki/HTML5)used as the main programming language. 
+* [HTML5](https://en.wikipedia.org/wiki/HTML5) used as the main programming language. 
 * [CSS](https://en.wikipedia.org/wiki/CSS) used to add style to the project. 
 * [Bootstrap](https://getbootstrap.com/) used to style some elements and to make the website responsive. 
 * [Fontawesome](https://fontawesome.com/) used for the icons. 
@@ -99,9 +99,11 @@ The fallback font for both headings and bodytext is Sans-Seriff.
 * [Github](https://github.com/) used to hoast the project. 
 * [Balsamiq](https://balsamiq.com/) used to create the wireframes. 
 * [TinyJPG](https://tinyjpg.com/) used to compress the images. 
-* [Photoshop](https://www.adobe.com/se/products/photoshop.html?sdid=8JD95K3Z&mv=search&ef_id=eca789e041d41a016e7ae9d20a38c22d:G:s&s_kwcid=AL!3085!10!79577224923347!79577349402192&msclkid=eca789e041d41a016e7ae9d20a38c22d) used to edit some of the images. 
+* [Photoshop](https://www.adobe.com/se/products/photoshop.html?sdid=8JD95K3Z&mv=search&ef_id=eca789e041d41a016e7ae9d20a38c22d:G:s&s_kwcid=AL!3085!10!79577224923347!79577349402192&msclkid=eca789e041d41a016e7ae9d20a38c22d) was used to edit some of the images. 
 
 ## Testing
+
+### Validation 
 
 ### User stories testing 
 - As a user, I want to know what type of memberships the gym offers.
@@ -153,6 +155,8 @@ the other days of the week and stretched the whole width of the screen.
 
 ### Browsers 
 The webpage is tested on Google Chrome, Mozilla Firefox, Microsoft Edge, Safiari and Internet explorer. 
+
+### Performace with lighthouse
 
 ### Manual testing
 1. Navbar 
