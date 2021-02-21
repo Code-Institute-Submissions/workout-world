@@ -119,8 +119,6 @@ The fallback font for both headings and bodytext is Sans-Seriff.
 - As a user, I what to know where the gym is located.
     - Under the contact page you can see the address to the gym under Contact and on sight.  
 
-
-
 ### Responsiveness
 The responsiveness was tested using Chrome and Mozilla Firefox DevTools. 
 
