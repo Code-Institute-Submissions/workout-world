@@ -103,20 +103,24 @@ The fallback font for both headings and bodytext is Sans-Seriff.
 
 ## Testing
 
+### Manual testing
 1. Navbar 
-    * Clicking the logo reloads the home page. 
+    * Clicking the logo reloads the home page.
     * Clicking the home link reloads the home page.
     * Clicking the memberships link brings user to the membership page. 
     * Clicking the class schedule link brings user to the class schedule page. 
     * Clicking the contact link brings user to the contact page.
+    * Hovering over the links to make sure they become lighter when hovering over them. 
     * Scrolling dow the page the navbar stays at the top of the browser window. 
+    * This was repeated on all pages to make sure the navbar works on every page. 
 
 2. Footer 
     * Clicking the logo reloads the home page. 
-    * Clicking the facebook icon brings user to facebook.com in a new browser window. 
-    * Clicking the instagram icon brings user to instagram.com in a new browser window. 
-    * Clicking the linkedin icon brings user to linkedin.com in a new browser window.
+    * Clicking the Facebook icon brings user to facebook.com in a new browser window. 
+    * Clicking the Instagram icon brings user to instagram.com in a new browser window. 
+    * Clicking the Linkedin icon brings user to linkedin.com in a new browser window.
     * Clicking he contact link brings user to the contact page.
+    * This is repeated on all pages to make sure the footer works on every page. 
 
 3. Contact form 
     * Go to the contact page 
