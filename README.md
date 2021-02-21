@@ -223,4 +223,4 @@ Most of the code in this project was written by me, however some of the code I g
 * Hero image on class schedule page by [Victor Freitas](https://www.pexels.com/@victorfreitas) from [pexels](https://www.pexels.com/) 
 * Picture of the instructor Anna on class schedule page by [Leah Kelley](https://www.pexels.com/@leah-kelley-50725) from [pexels](https://www.pexels.com/)
 * Picture of the instructor Kalle on class schedule page by [Elle Hughes](https://www.pexels.com/@elletakesphotos) from [pexels](https://www.pexels.com/)
-* Picture of the instructor Philip on class schedule page by [Italo Melo](https://www.pexels.com/@italo-melo-881954) from [pexels](https://www.pexels.com/)
+* Picture of the instructor Philip on class schedule page by [Laker](https://www.pexels.com/@laker) from [pexels](https://www.pexels.com/)

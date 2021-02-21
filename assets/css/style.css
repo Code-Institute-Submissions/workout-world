@@ -252,6 +252,7 @@ footer {
     height: 40px;
     background: #45a29e;
     border-radius: 5px; 
+    padding-top: 5px;
 }
 
 .schedule-section {
