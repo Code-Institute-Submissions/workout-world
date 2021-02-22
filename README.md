@@ -184,6 +184,7 @@ The Lighthouse scores are first presented for desktop for each page and the seco
 #### Contact page 
 ![Lighthouse desktop contact](/assets/images/desktop-contact.JPG)
 ![Lighthouse mobile contact](/assets/images/mobile-contact.JPG)
+
 ### Manual testing
 1. Navbar 
     * Clicking the logo reloads the home page.
@@ -201,6 +202,7 @@ The Lighthouse scores are first presented for desktop for each page and the seco
     * Clicking the Instagram icon brings user to instagram.com in a new browser window. 
     * Clicking the Linkedin icon brings user to linkedin.com in a new browser window.
     * Clicking he contact link brings user to the contact page.
+    * Hovering over the contact link and social icons to make sure they become lighter when hovering over them.
     * This is repeated on all pages to make sure the footer works on every page. 
 
 3. Contact form 
