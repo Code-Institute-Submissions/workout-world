@@ -156,18 +156,17 @@ footer {
 .reasons-item {
     width: 250px;
     height: 300px;
-    /* this section is taken from Youtube tutorial made by Dev Ed*/
-    background: #fff;
-    background: linear-gradient(
-    to right bottom,
-    rgba(255, 255, 255, 0.7),
-    rgba(255, 255, 255, 0.4)
-    );
-    /* this section is taken from Youtube tutorial made by Dev Ed*/
     text-align: center;
     padding: 30px 15px 15px 15px;
     border-radius: 10px;
     margin-bottom: 5rem;
+    /* this section is taken from Youtube tutorial made by Dev Ed and slightly changed*/
+    background: #fff;
+    background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.8),
+    rgba(255, 255, 255, 0.4)
+    );
 }
 
 .reasons-item p {
@@ -196,18 +195,17 @@ footer {
 .membership-item {
     width: 250px;
     height: 250px;
-    /* this section is taken from Youtube tutorial made by Dev Ed*/
-    background: #fff;
-    background: linear-gradient(
-    to right bottom,
-    rgba(255, 255, 255, 0.7),
-    rgba(255, 255, 255, 0.4)
-    );
-    /* this section is taken from Youtube tutorial made by Dev Ed*/
     text-align: center;
     padding: 30px 15px 15px 15px;
     border-radius: 10px;
     margin-bottom: 5rem;
+    /* this section is taken from Youtube tutorial made by Dev Ed and slightly changed*/
+    background: #fff;
+    background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.8),
+    rgba(255, 255, 255, 0.4)
+    );
 }
 
 .membership-item p {
@@ -226,18 +224,17 @@ footer {
 }
 
 .schedule-container {
-    /* this section is taken from Youtube tutorial made by Dev Ed*/
-    background: #fff;
-    background: linear-gradient(
-    to right bottom,
-    rgba(255, 255, 255, 0.7),
-    rgba(255, 255, 255, 0.4)
-    );
-    /* this section is taken from Youtube tutorial made by Dev Ed*/
     height: 100%;
     width: 100%;
     border-radius: 10px;
     padding: 15px 30px 15px 30px;
+    /* this section is taken from Youtube tutorial made by Dev Ed and slightly changed*/
+    background: #fff;
+    background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.8),
+    rgba(255, 255, 255, 0.4)
+    );
 }
 
 .schedule-heading {
@@ -329,18 +326,17 @@ footer {
 .contact-item {
     width: 250px;
     height: 300px;
-    /* this section is taken from Youtube tutorial made by Dev Ed*/
-    background: #fff;
-    background: linear-gradient(
-    to right bottom,
-    rgba(255, 255, 255, 0.7),
-    rgba(255, 255, 255, 0.4)
-    );
-    /* this section is taken from Youtube tutorial made by Dev Ed*/
     text-align: center;
     padding: 30px 15px 15px 15px;
     border-radius: 10px;
     margin-bottom: 5rem;
+    /* this section is taken from Youtube tutorial made by Dev Ed and slightly changed*/
+    background: #fff;
+    background: linear-gradient(
+    to right bottom,
+    rgba(255, 255, 255, 0.8),
+    rgba(255, 255, 255, 0.4)
+    );
 }
 
 .contact-item p {
