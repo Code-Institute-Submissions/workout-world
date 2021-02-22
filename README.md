@@ -157,7 +157,24 @@ the other days of the week and stretched the whole width of the screen.
 The webpage is tested on Google Chrome, Mozilla Firefox, Microsoft Edge, Safiari and Internet explorer. 
 
 ### Performace with lighthouse
+To test the performance of the project i used Lighthouse.
+The first times that I used lighthouse the performace of the pages wasn't that good, to fix this I compressed the images that I used 
+because the filesizes was pretty big, I also squared the images used for the instructors in Photoshop to make the performance better. 
+The SEO is also omproved by adding a metadescription to all the pages. 
 
+The Lighthouse scores are first presented for desktop for each page and the second one is for mobile. 
+#### Home page
+![Lighthouse desktop home](/assets/images/desktop-home.JPG)
+![Lighthouse mobile home](/assets/images/mobile-home.JPG)
+#### Memberships page 
+![Lighthouse desktop memberships](/assets/images/desktop-memberships.JPG)
+![Lighthouse mobile memberships](/assets/images/mobile-memberships.JPG)
+#### Class Schedule page 
+![Lighthouse desktop schedule](/assets/images/desktop-schedule.JPG)
+![Lighthouse mobile schedule](/assets/images/mobile-schedule.JPG)
+#### Contact page 
+![Lighthouse desktop contact](/assets/images/desktop-contact.JPG)
+![Lighthouse mobile contact](/assets/images/mobile-contact.JPG)
 ### Manual testing
 1. Navbar 
     * Clicking the logo reloads the home page.
@@ -190,9 +207,8 @@ The webpage is tested on Google Chrome, Mozilla Firefox, Microsoft Edge, Safiari
   in my css file that i found in [this](https://stackoverflow.com/questions/46012482/unwanted-white-space-on-right-side-in-mobile-view/46012924) thread on Stack Overflow that fixed the problem. 
 * Images don't work when deploying the website on github. Fixed this by changing the image filepaths from absolute to relative instead.
 
-#### Known bugs thats not fixed 
+#### Open bugs
 * Hero images on Class Schedule page and home page and the student discount picture get a bit squashed on internet explorer. 
-
  
 ## Deployment
 ### Deploy 

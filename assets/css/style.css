@@ -32,7 +32,7 @@ i {
     height: 80vh;
     position: relative;
     overflow: hidden;
-    background: #0B1B30;
+    background: #1f2833;
 }
 
 .text-img {
@@ -142,7 +142,7 @@ footer {
 
 /* reasons */
 .reasons {
-    background-color: #0B1B30;
+    background-color: #1f2833;
     width: 100%;
     padding-bottom: 5rem;
 }
@@ -175,7 +175,7 @@ footer {
 
 /* membership */
 .memberships {
-    background-color: #0B1B30;
+    background-color: #1f2833;
     padding: 2rem;
 }
 
@@ -269,7 +269,7 @@ footer {
 
 /* meet our instructors */
 .instructors {
-    background-color: #0B1B30;
+    background-color: #1f2833;
     width: 100%;
     padding: 5rem 0 10rem 0;
     text-align: center;
@@ -305,7 +305,7 @@ footer {
 
 /* contact */
 .contact {
-    background-color: #0B1B30;
+    background-color: #1f2833;
     width: 100%;
 }
 
@@ -346,7 +346,7 @@ footer {
 
 /* contact form */
 .contact-section {
-    background-color: #0B1B30;
+    background-color: #1f2833;
 }
 
 .form-heading {
