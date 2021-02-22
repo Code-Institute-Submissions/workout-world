@@ -155,7 +155,9 @@ The responsiveness is tested on these devices with Mozilla Firefox DevTools:
 
 Changes done to make the webpage responsive on all devices tested: 
 *	I changed the schedule from having its breakpoint to col-xl from col-lg because otherwise on iPad Pro Sunday in the schedule dropped down below 
-the other days of the week and stretched the whole width of the screen. 
+the other days of the week and stretched the whole width of the screen.
+* I changed the reasons section on the homepage from col-lg-3 to col-xl-3, this was made because otherwise the reasons section
+didn't look good at the ipad pro where it was to thight to fix all the items in this section on in teh same row.  
 *	I changed the padding of the social media icons in the footer because other wide they didn’t fit on the same line on the iPad and Galaxy Fold. 
 *	I put in a media query for the logo on screen sizes with a wax width of 320px to make the logo smaller because otherwise the logo and navigation
  menu didn’t fit on the same line and dropped down below the logo instead. 
