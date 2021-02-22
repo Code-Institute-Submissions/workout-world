@@ -164,7 +164,7 @@ the other days of the week and stretched the whole width of the screen.
 The webpage is tested on Google Chrome, Mozilla Firefox, Microsoft Edge, Safiari and Internet explorer. 
 
 ### Performace with lighthouse
-To test the performance of the project i used Lighthouse.
+To test the performance of the project I used Lighthouse.
 The first times that I used lighthouse the performace of the pages wasn't that good, to fix this I compressed the images that I used 
 because the filesizes was pretty big, I also squared the images used for the instructors in Photoshop to make the performance better. 
 The SEO is also omproved by adding a metadescription to all the pages. 
