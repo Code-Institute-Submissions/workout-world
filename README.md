@@ -87,7 +87,7 @@ The fallback font for both headings and bodytext is Sans-Seriff.
 ### Features Left to Implement
 * A way to sign up to become a member on the website.
 * Link pictures from the gym's instagram on the website. 
-* A google maps to see where the gym is located. 
+* A google maps to see where the gym is located.
 
 ## Technologies Used
 * [HTML5](https://en.wikipedia.org/wiki/HTML5) used as the main programming language. 
@@ -104,6 +104,13 @@ The fallback font for both headings and bodytext is Sans-Seriff.
 ## Testing
 
 ### Validation 
+* To test the HTML I used the [W3C Markup validation Service.](https://validator.w3.org/)
+At first the was a warning message because I had put the logo as a H1.
+I made some research, and it seems that the best is to not use the logo as a h1 especially since 
+I have a logo at the bottom and the top pf every page and you should only use one h1 per page. 
+After i changed this there eas no errors or warning to show. 
+* To test the CSS I used the [W3D CSS Validation Service.]https://jigsaw.w3.org/css-validator/
+There were no errors in the CSS-code and the code vas validated at CSS level 3 + SVG. 
 
 ### User stories testing 
 - As a user, I want to know what type of memberships the gym offers.
