@@ -140,7 +140,7 @@ footer {
     padding-bottom: 5rem;
 }
 .reasons-heading {
-    padding: 70px 0 70px 0;
+    margin: 7rem 0 5rem 0;
     color: #45a29e;
     text-align: center;
 } 
@@ -169,11 +169,11 @@ footer {
 /* membership */
 .memberships {
     background-color: #1f2833;
-    padding: 2rem;
+    padding: 5rem;
 }
 
 .membership-heading {
-    margin: 10rem 0 2rem 0;
+    margin: 7rem 0 2rem 0;
     color: #45a29e;
     text-align: center;
 } 
@@ -271,7 +271,7 @@ footer {
 
 .instructors-heading {
     color: #45a29e;
-    margin-bottom: 50px;
+    margin: 2rem 0 5rem 0;
 }
 
 /* to style the shape, size and position to elements arount and inside */
@@ -303,10 +303,11 @@ footer {
 .contact {
     background-color: #1f2833;
     width: 100%;
+    padding: 5rem;
 }
 
 .contact-heading {
-    margin: 200px 0 20px 0;
+    margin: 7rem 0 2rem 0;
     color: #45a29e;
     text-align: center;
 } 
@@ -347,7 +348,7 @@ footer {
 
 .form-heading {
     text-align: center;
-    padding: 100px 0 50px 0;
+    padding: 7rem 0 2rem 0;
     color: #45a29e;
 }
 
