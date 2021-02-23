@@ -124,6 +124,7 @@ There were no errors in the CSS-code and the code vas validated at CSS level 3 +
 ### Features
 Below the user stories testing are presented and the manual testing for interactive elemenmts. 
 #### Navbar
+Manual testing of the navbar.
 * Clicking the logo reloads the home page.
 * Clicking the home link reloads the home page.
 * Clicking the memberships link brings user to the membership page. 
@@ -135,7 +136,8 @@ Below the user stories testing are presented and the manual testing for interact
 #### Footer 
 - As a user, I want to find out how to contact the gym.
     - In the footer there are links to the gyms social media if the user wants to connect with the gym there. 
-
+    
+Manual testing of the footer.
 * Clicking the logo reloads the home page. 
 * Clicking the Facebook icon brings user to facebook.com in a new browser window. 
 * Clicking the Instagram icon brings user to instagram.com in a new browser window. 
@@ -171,6 +173,7 @@ Below the user stories testing are presented and the manual testing for interact
 - As a user, I what to know where the gym is located.
     - Under the contact page you can see the address to the gym under Contact and on sight.
 
+Manual testing of the contact form.
 * Go to the contact page. 
 * Trying to submit the form empty and an error message appears to fill out required fields. 
 * Trying to submit the form without a valid email address and an error message appears. 
