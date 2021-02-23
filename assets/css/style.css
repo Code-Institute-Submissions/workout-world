@@ -133,6 +133,10 @@ footer {
     right: 0;
 }
 
+.free {
+    color: #66fcf1;
+}
+
 /* reasons */
 .reasons {
     background-color: #1f2833;
