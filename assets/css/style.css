@@ -170,7 +170,7 @@ footer {
     color: #0b0c10;
 } 
 
-/* membership */
+/* our memberships */
 .memberships {
     background-color: #1f2833;
     padding-bottom: 5rem;
@@ -418,6 +418,13 @@ label {
     bottom: 0;
     left: 10%;
     right: 0;
+    }
+}
+
+/* our memberships */
+@media(max-width: 320px) {
+    .membership-heading {
+    font-size: 200%;
     }
 }
 
