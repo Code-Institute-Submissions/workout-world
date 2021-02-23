@@ -173,7 +173,7 @@ footer {
 /* membership */
 .memberships {
     background-color: #1f2833;
-    padding: 5rem;
+    padding-bottom: 5rem;
 }
 
 .membership-heading {
@@ -307,7 +307,7 @@ footer {
 .contact {
     background-color: #1f2833;
     width: 100%;
-    padding: 5rem;
+    padding-bottom: 5rem;
 }
 
 .contact-heading {
