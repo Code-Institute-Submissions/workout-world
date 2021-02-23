@@ -1,5 +1,11 @@
 # Workout World
-This website is created for the new gym Workout World in the center of Stockholm in Sweden. The project is fictional and created for educational purpose.
+![Mockup](/assets/images/mockup.JPG)
+
+[Link to the website](https://marialundgren.github.io/workout-world/)
+
+This website is created for the new gym Workout World in the center of Stockholm in Sweden. The main objective of the website is to create a presence on internet
+for the gym to inform about the gym to new and existing members.
+The project is fictional and created for educational purpose.
 
 ## UX 
 In this section is the explanation of how the website is planned to make it usable and valuable for both the user and site owner using the five planes of user experience. 
