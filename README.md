@@ -132,7 +132,6 @@ Below the user stories testing are presented and the manual testing for interact
 * Clicking the Facebook icon brings user to facebook.com in a new browser window. 
 * Clicking the Instagram icon brings user to instagram.com in a new browser window. 
 * Clicking the Linkedin icon brings user to linkedin.com in a new browser window.
-* Clicking he contact link brings user to the contact page.
 * Hovering over the contact link and social icons to make sure they become lighter when hovering over them.
 * This is repeated on all pages to make sure the footer works on every page. 
 #### Home 
@@ -196,7 +195,9 @@ didn't look good at the ipad pro where it was to thight to fix all the items in 
  menu didn’t fit on the same line and dropped down below the logo instead. 
 
 ### Browsers 
-The webpage is tested on Google Chrome, Mozilla Firefox, Microsoft Edge, Safari and Internet explorer. 
+The webpage is tested on Google Chrome, Mozilla Firefox, Microsoft Edge and Safari.
+
+The website don't support Internet Explorer. 
 
 ### Performance with lighthouse
 To test the performance of the project I used Lighthouse.
@@ -239,8 +240,12 @@ The Lighthouse scores are first presented for desktop for each page and the seco
 7. When clicking on the link you will access the website. 
 ### Run code locally
 1. Find the repository and click on it.
-2. Above all the files click on code next to the green Gitpod button.  
-3. Here you can choose to clone the repository or to download a zip-file that you can unpack and deploy in a local environment.
+2. Above all the files click on the green gitpod button. 
+3. This opens a new copy of the workspace at github, this should onely be done once and then you can access the workspace from gitpod. 
+If you press this button again it will create a new copy of the workspace on gitpod. 
+4. The workspace can now be edited locally.
+5. To open a prewiev of the workspace in a full browserwindow, in the terminal window type in the command: python3 -m http.server, an click open browser in the pop-up window down to the right. 
+
 
 ## Credits 
 
