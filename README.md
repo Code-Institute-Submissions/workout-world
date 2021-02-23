@@ -50,14 +50,14 @@ The fonts used in this project is both found on google fonts, Montserrat is used
 The fallback font for both headings and body text is Sans-Serif. 
 
 ## Features 
-
+Here the features of the project is explaned and some features that could be implemented in the future to the project. 
 ### Existing Features
 - Navbar
     - The navbar will be sticky so that the user always can easily get to different parts of the webpage 
     and become a dropdown menu on tablet and phone. 
 - Footer 
     - The footer will contain links to social media so the user can easily fin the gym on social media 
-    and a link to the contact page so that it is always easy for the user to find out how they can contact the gym.
+    and the gym logo. 
 - Home
     - Navbar (described under navbar)
     - The homepage will have a hero image underneath the navbar with an offer on it to get the users attention. 
@@ -76,12 +76,11 @@ The fallback font for both headings and body text is Sans-Serif.
     - Underneath the hero image on the class schedule page the schedule for the classes will be so the user can see when the classes take place. 
     - Underneath the schedule for the classes the instructors will be shortly presented so that the user can get to know the different instructors a little. 
     - Footer (described under footer).
-    
 - Contact
     - Navbar (described under navbar).
     - On the contact page under the navbar the different ways to contact the gym will be presented so that the user knows the different ways they can contact the gym. 
     - Underneath the different ways to contact the gym there will be a contact form if the user wants to fill that out instead of using some of the other ways to contact the gym. 
-      This form will reload the page.  
+      When pressing the submit button the page will reload.  
     - Footer (described under footer).
 
 ### Features Left to Implement
