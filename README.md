@@ -42,9 +42,9 @@ For the structure, the more general information and perks of the gym is represen
 to the right more detail information is presented first for those who are interested and furthest to the right in the navbar the contact page is placed. 
 
 Balsamiq was used to create wireframe for the website, the wireframes are linked below. 
-* [Desktop](assets/wireframes/desktop-wireframes.pdf) 
-* [Tablet](assets/wireframes/tablet-wireframes.pdf) 
-* [Mobile](assets/wireframes/phone-wireframes.pdf) 
+* [Desktop](wireframes/desktop-wireframes.pdf) 
+* [Tablet](wireframes/tablet-wireframes.pdf) 
+* [Mobile](wireframes/phone-wireframes.pdf) 
 
 ### 5 Surface
 
@@ -136,7 +136,7 @@ Manual testing of the navbar.
 #### Footer 
 - As a user, I want to find out how to contact the gym.
     - In the footer there are links to the gyms social media if the user wants to connect with the gym there. 
-    
+
 Manual testing of the footer.
 * Clicking the logo reloads the home page. 
 * Clicking the Facebook icon brings user to facebook.com in a new browser window. 
@@ -287,3 +287,8 @@ Most of the code in this project was written by me, however some smaller pieces 
 * Picture of the instructor Anna on class schedule page by [Leah Kelley](https://www.pexels.com/@leah-kelley-50725) from [pexels](https://www.pexels.com/)
 * Picture of the instructor Kalle on class schedule page by [Elle Hughes](https://www.pexels.com/@elletakesphotos) from [pexels](https://www.pexels.com/)
 * Picture of the instructor Philip on class schedule page by [Laker](https://www.pexels.com/@laker) from [pexels](https://www.pexels.com/)
+
+### Acknowledgements 
+* Code Institutes Slack community has been a extremly valiable resourse buring this project
+where I have found the awnsers to numerous questions and problems that I have had. 
+* I would also like to thank my mentor Rohit Sharma for his advice and guidence in this project.  
