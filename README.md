@@ -42,7 +42,9 @@ Balsamiq was used to create wireframe for the website, the wireframes are linked
 
 #### Color
 
-The color scheme used for this project is to create a minimalistic and modern design with high contrast between the lighter and the darker colors. 
+The color scheme used for this project is to create a minimalistic and modern design with high contrast between the lighter and the darker colors.
+The two darkest color are used as background colors for the project and the lighter gray and darker turquoise are used for text and elements in the project. 
+The lightest turquoise are used sparingly to hightlight some elements in the project.
 ![Color scheme](/assets/images/color-scheme.jpeg)
 
 #### Typography 
@@ -111,22 +113,54 @@ After I changed this there was no errors or warning to show.
 * To test the CSS I used the [W3D CSS Validation Service.]https://jigsaw.w3.org/css-validator/
 There were no errors in the CSS-code and the code vas validated at CSS level 3 + SVG. 
 
-### User stories testing 
-- As a user, I want to know what type of memberships the gym offers.
-    - At the memberships page the user can see the three different memberships that the gym offers under Our memberships. 
-- As a user, I want to know what a membership cost.
-    - At the memberships page the user can see under Our Memberships what the prices of the different memberships is and the sign-up fee. On the same page there is also underneath the membership's information about student discount so that the users that are students can know that the gym offers 15% student discount on all memberships. On the home page you can also see that new members can try out the gym for one week free of charge. 
+### Features
+Below the user stories testing are presented and the manual testing for interactive elemenmts. 
+#### Navbar
+* Clicking the logo reloads the home page.
+* Clicking the home link reloads the home page.
+* Clicking the memberships link brings user to the membership page. 
+* Clicking the class schedule link brings user to the class schedule page. 
+* Clicking the contact link brings user to the contact page.
+* Hovering over the links to make sure they become lighter when hovering over them. 
+* Scrolling dow the page the navbar stays at the top of the browser window. 
+* This was repeated on all pages to make sure the navbar works on every page.
+#### Footer 
 - As a user, I want to find out how to contact the gym.
-    - On the contact page the user can find all the ways they can contact the gym, on phone, email, on sight and via a contact form. The opening outs for the reception is also stated if you want to call or talk to someone on sight. In the footer there are also links to the gyms social media if the user wants to connect with the gym there. You can also find a link to the contact page in the footer. 
+    - In the footer there are links to the gyms social media if the user wants to connect with the gym there. 
+
+* Clicking the logo reloads the home page. 
+* Clicking the Facebook icon brings user to facebook.com in a new browser window. 
+* Clicking the Instagram icon brings user to instagram.com in a new browser window. 
+* Clicking the Linkedin icon brings user to linkedin.com in a new browser window.
+* Clicking he contact link brings user to the contact page.
+* Hovering over the contact link and social icons to make sure they become lighter when hovering over them.
+* This is repeated on all pages to make sure the footer works on every page. 
+#### Home 
+- As a user, I want to know what a membership cost.
+    - On the home page you can also see that new members can try out the gym for one week free of charge.
+- As a user, I what to know what opening hour the gym has.
+    - On the home page you can see under the Why Workout World? That the gym always is open and under the contact page you can see the opening hours of the reception. 
+#### Memberships 
+- As a user, I want to know what type of memberships the gym offers.
+    - At the memberships page the user can see the three different memberships that the gym offers under Our memberships.
+- As a user, I want to know what a membership cost.
+    - At the memberships page the user can see under Our Memberships what the prices of the different memberships is and the sign-up fee. On the same page there is also underneath the membership's information about student discount so that the users that are students can know that the gym offers 15% student discount on all memberships. 
+#### Class Schedule 
 - As a user, I what to see what classes the gym offers.
     - On the class schedule page, the user can find a schedule of the classes the gym offers in the schedule. 
 - As a user, I want to find out when the classes are available.
     - On the class schedule page, the user can also find out when the different classes are held in the schedule. 
-- As a user, I what to know what opening hour the gym has.
-    - On the home page you can see under the Why Workout World? That the gym always is open and under the contact page you can see the opening hours of the reception. 
+#### Contact 
+- As a user, I want to find out how to contact the gym.
+    - On the contact page the user can find all the ways they can contact the gym, on phone, email, on sight and via a contact form. The opening outs for the reception is also stated if you want to call or talk to someone on sight.
 - As a user, I what to know where the gym is located.
-    - Under the contact page you can see the address to the gym under Contact and on sight.  
+    - Under the contact page you can see the address to the gym under Contact and on sight.
 
+* Go to the contact page. 
+* Trying to submit the form empty and an error message appears to fill out required fields. 
+* Trying to submit the form without a valid email address and an error message appears. 
+* Trying to submit the form with all the required information and the page reloads.
+ 
 ### Responsiveness
 The responsiveness was tested using Chrome and Mozilla Firefox DevTools. 
 
@@ -183,32 +217,6 @@ The Lighthouse scores are first presented for desktop for each page and the seco
 #### Contact page 
 ![Lighthouse desktop contact](/assets/images/desktop-contact.JPG)
 ![Lighthouse mobile contact](/assets/images/mobile-contact.JPG)
-
-### Manual testing
-1. Navbar 
-    * Clicking the logo reloads the home page.
-    * Clicking the home link reloads the home page.
-    * Clicking the memberships link brings user to the membership page. 
-    * Clicking the class schedule link brings user to the class schedule page. 
-    * Clicking the contact link brings user to the contact page.
-    * Hovering over the links to make sure they become lighter when hovering over them. 
-    * Scrolling dow the page the navbar stays at the top of the browser window. 
-    * This was repeated on all pages to make sure the navbar works on every page. 
-
-2. Footer 
-    * Clicking the logo reloads the home page. 
-    * Clicking the Facebook icon brings user to facebook.com in a new browser window. 
-    * Clicking the Instagram icon brings user to instagram.com in a new browser window. 
-    * Clicking the Linkedin icon brings user to linkedin.com in a new browser window.
-    * Clicking he contact link brings user to the contact page.
-    * Hovering over the contact link and social icons to make sure they become lighter when hovering over them.
-    * This is repeated on all pages to make sure the footer works on every page. 
-
-3. Contact form 
-    * Go to the contact page 
-    * Trying to submit the form empty and an error message appears to fill out required fields. 
-    * Trying to submit the form without a valid email address and an error message appears. 
-    * Trying to submit the form with all the required information and the page reloads. 
 
 ### Bugs 
 #### Fixed bugs
