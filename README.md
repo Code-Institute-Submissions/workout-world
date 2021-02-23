@@ -1,5 +1,5 @@
 # Workout World
-![Mockup](/assets/images/mockup.JPG)
+![Mockup](assets/images/mockup.JPG)
 
 [Link to the website](https://marialundgren.github.io/workout-world/)
 
@@ -145,16 +145,19 @@ Below the user stories testing are presented and the manual testing for interact
     - On the home page you can also see that new members can try out the gym for one week free of charge.
 - As a user, I what to know what opening hour the gym has.
     - On the home page you can see under the Why Workout World? That the gym always is open and under the contact page you can see the opening hours of the reception. 
+![Home page desktop](assets/images/home-desktop.JPG) ![Home page mobile](assets/images/home-mobile.JPG)
 #### Memberships 
 - As a user, I want to know what type of memberships the gym offers.
     - At the memberships page the user can see the three different memberships that the gym offers under Our memberships.
 - As a user, I want to know what a membership cost.
     - At the memberships page the user can see under Our Memberships what the prices of the different memberships is and the sign-up fee. On the same page there is also underneath the membership's information about student discount so that the users that are students can know that the gym offers 15% student discount on all memberships. 
+![Memberships page desktop](assets/images/memberships-desktop.JPG) ![Memberships page mobile](assets/images/memberships-mobile.JPG)
 #### Class Schedule 
 - As a user, I what to see what classes the gym offers.
     - On the class schedule page, the user can find a schedule of the classes the gym offers in the schedule. 
 - As a user, I want to find out when the classes are available.
     - On the class schedule page, the user can also find out when the different classes are held in the schedule. 
+![Class Schedule page desktop](assets/images/schedule-desktop.JPG) ![Class Schedule page mobile](assets/images/schedule-mobile.JPG)
 #### Contact 
 - As a user, I want to find out how to contact the gym.
     - On the contact page the user can find all the ways they can contact the gym, on phone, email, on sight and via a contact form. The opening outs for the reception is also stated if you want to call or talk to someone on sight.
@@ -165,7 +168,8 @@ Below the user stories testing are presented and the manual testing for interact
 * Trying to submit the form empty and an error message appears to fill out required fields. 
 * Trying to submit the form without a valid email address and an error message appears. 
 * Trying to submit the form with all the required information and the page reloads.
- 
+ ![Contact page desktop](assets/images/contact-desktop.JPG) ![Contact page mobile](assets/images/contact-mobile.JPG)
+
 ### Responsiveness
 The responsiveness was tested using Chrome and Mozilla Firefox DevTools. 
 
