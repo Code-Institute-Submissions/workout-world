@@ -42,7 +42,7 @@ Balsamiq was used to create wireframe for the website, the wireframes are linked
 
 #### Color
 
-The color scheme used for this project is to create a minimalistic and modern design with high contrast between the lighter turquoise and the darker colors. 
+The color scheme used for this project is to create a minimalistic and modern design with high contrast between the lighter and the darker colors. 
 ![Color scheme](/assets/images/color-scheme.jpeg)
 
 #### Typography 
