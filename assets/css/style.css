@@ -296,6 +296,9 @@ footer {
      right: 0;
 }
 
+.instructor-name {
+    color: #c5c6c7;
+}
 /* contact */
 .contact {
     background-color: #1f2833;
