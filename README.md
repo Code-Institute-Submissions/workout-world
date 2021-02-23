@@ -4,7 +4,7 @@
 [Link to the website](https://marialundgren.github.io/workout-world/)
 
 This website is created for the new gym Workout World in the center of Stockholm in Sweden. The main objective of the website is to create a presence on internet
-for the gym to inform about the gym to new and existing members.
+for the gym and to inform about the gym to new and existing members.
 The project is fictional and created for educational purpose.
 
 ## UX 
@@ -13,12 +13,14 @@ In this section is the explanation of how the website is planned to make it usab
 The objective of this website is to inform about the gym and its offer to new and existing members. 
 The target audience for the gym is people living in Stockholm who wants to workout at a modern and friendly gym. 
 The user on the website is always going to be an anonymous user since it is not possible to log in to the website yet. 
+
 Users goal: wants to know more about the gym and what it offers.
+
 Site owners' goal: to create an online presence of the gym and to inform about what the gym offers. 
 
 #### User stories 
 * As a user, I want to know what type of memberships the gym offers. 
-* As a user, I want to know what a membership cost.
+* As a user, I want to know what a membership costs.
 * As a user, I want to find out how to contact the gym. 
 * As a user, I what to see what classes the gym offers. 
 * As a user, I want to find out when the classes are available. 
@@ -26,23 +28,23 @@ Site owners' goal: to create an online presence of the gym and to inform about w
 * As a user, I what to know where the gym is located. 
 
 ### 2 Scope 
-The focus of the is for new and existing members to easily find information about the gym, its offer and how to get in contact with the personnel at the gym. 
+The focus of the website is for new and existing members to easily find information about the gym, its offer and how to get in contact with the personnel at the gym. 
 Since it is a b2c website it is important to have easy digestible content on the site and this has been taken into consideration when building the site, 
-to have big pictures and small sections with text to make it easier for the user. 
+by haveing big pictures and small sections with text to make it easier for the user. 
 ### 3 Structure 
-For the structure of the page is designed with a linear narrative to make the site easy to use from the first time visiting it.
+The structure of the page is designed with a linear narrative to make the site easy to navigate from the first time visiting it.
 The navigation bar is placed at the top of the browser window and is sticky so that it is easy to go where you want on the website.
-On the landing page of the site more general information and an offer is represented and then you can move on to more detailed information on the other sides of the webpage. 
+On the landing page of the site more general information represented and then you can move on to more detailed information on the other sides of the webpage. 
 ### 4 Skeleton
 Wireframes were developed for the website to ensure that the content is presented in line with the strategy and goal of the website and to make sure that the arrangement amongst the elements work. 
 Visual metaphors in the form of icons are used in some places to make the content easier to interpret for the user. 
 For the structure, the more general information and perks of the gym is represented because this content is prioritized to get users interested. When you continue the navbar 
-to the right more detail information is presented for those who are interested and furthest to the right in the navbar the contact page is placed. 
+to the right more detail information is presented first for those who are interested and furthest to the right in the navbar the contact page is placed. 
 
 Balsamiq was used to create wireframe for the website, the wireframes are linked below. 
-* [Desktop](/assets/wireframes/desktop-wireframes.pdf) 
-* [Tablet](/assets/wireframes/tablet-wireframes.pdf) 
-* [Mobile](/assets/wireframes/phone-wireframes.pdf) 
+* [Desktop](assets/wireframes/desktop-wireframes.pdf) 
+* [Tablet](assets/wireframes/tablet-wireframes.pdf) 
+* [Mobile](assets/wireframes/phone-wireframes.pdf) 
 
 ### 5 Surface
 
@@ -54,7 +56,7 @@ The lightest turquoise are used sparingly to hightlight some elements in the pro
 ![Color scheme](/assets/images/color-scheme.jpeg)
 
 #### Typography 
-The fonts used in this project is both found on google fonts, Montserrat is used for the headings paired with the font Lato for body text which was a popular pairing according to google fonts.
+The fonts used in this project are both found on google fonts, Montserrat is used for the headings paired with the font Lato for body text which was a popular pairing suggested by google fonts.
 The fallback font for both headings and body text is Sans-Serif. 
 
 ## Features 
@@ -75,18 +77,18 @@ Here the features of the project is explaned and some features that could be imp
 - Memberships
     - Navbar (described under navbar). 
     - On the membership page the three different memberships will be presented so that the user know what memberships are avalibe and their prices. 
-    - Underneath the memberships on the membership page there will be a picture where the student discound is presented 
+    - Underneath the memberships on the membership page there will be a picture where the student discount is presented 
     so that the users that are students know they can get a discount on the memberships.
     - Footer (described under footer).
 - Class Schedule
     - Navbar (described under navbar).
-    - On the Class schedule page underneath the navbar there will be a hero image with the main heading on it. 
+    - On the Class schedule page underneath the navbar there will be a hero image with the text fitness class schedule on it. 
     - Underneath the hero image on the class schedule page the schedule for the classes will be so the user can see when the classes take place. 
     - Underneath the schedule for the classes the instructors will be shortly presented so that the user can get to know the different instructors a little. 
     - Footer (described under footer).
 - Contact
     - Navbar (described under navbar).
-    - On the contact page under the navbar the different ways to contact the gym will be presented so that the user knows the different ways they can contact the gym. 
+    - On the contact page under the navbar the different ways to contact the gym will be presented so that the user knows the different ways they can get in contact with the gym. 
     - Underneath the different ways to contact the gym there will be a contact form if the user wants to fill that out instead of using some of the other ways to contact the gym. 
       When pressing the submit button the page will reload.  
     - Footer (described under footer).
@@ -103,9 +105,9 @@ Here the features of the project is explaned and some features that could be imp
 * [Font Awesome](https://fontawesome.com/) used for the icons. 
 * [Google Fonts](https://fonts.google.com/) used to import the two fonts that I used in the project, Montserrat and Latol. 
 * [Gitpod](https://www.gitpod.io/) used to develop the project.  
-* [Github](https://github.com/) used to host the project. 
+* [Github](https://github.com/) used to store the project. 
 * [Balsamiq](https://balsamiq.com/) used to create the wireframes. 
-* [TinyJPG](https://tinyjpg.com/) used to compress the images. 
+* [TinyJPG](https://tinyjpg.com/) used to compress images. 
 * [Photoshop](https://www.adobe.com/se/products/photoshop.html?sdid=8JD95K3Z&mv=search&ef_id=eca789e041d41a016e7ae9d20a38c22d:G:s&s_kwcid=AL!3085!10!79577224923347!79577349402192&msclkid=eca789e041d41a016e7ae9d20a38c22d) was used to edit some of the images. 
 
 ## Testing
@@ -114,7 +116,7 @@ Here the features of the project is explaned and some features that could be imp
 * To test the HTML I used the [W3C Markup validation Service.](https://validator.w3.org/)
 At first the was a warning message because I had put the logo as a H1.
 I made some research, and it seems that the best is to not use the logo as a h1 especially since 
-I have a logo at the bottom and the top pf every page and you should only use one h1 per page. 
+I have a logo at the bottom and the top of every page and you should only use one h1 per page. 
 After I changed this there was no errors or warning to show. 
 * To test the CSS I used the [W3D CSS Validation Service.]https://jigsaw.w3.org/css-validator/
 There were no errors in the CSS-code and the code vas validated at CSS level 3 + SVG. 
@@ -128,7 +130,7 @@ Below the user stories testing are presented and the manual testing for interact
 * Clicking the class schedule link brings user to the class schedule page. 
 * Clicking the contact link brings user to the contact page.
 * Hovering over the links to make sure they become lighter when hovering over them. 
-* Scrolling dow the page the navbar stays at the top of the browser window. 
+* Scrolling down the page the navbar stays at the top of the browser window. 
 * This was repeated on all pages to make sure the navbar works on every page.
 #### Footer 
 - As a user, I want to find out how to contact the gym.
@@ -142,16 +144,16 @@ Below the user stories testing are presented and the manual testing for interact
 * This is repeated on all pages to make sure the footer works on every page. 
 #### Home 
 - As a user, I want to know what a membership cost.
-    - On the home page you can also see that new members can try out the gym for one week free of charge.
+    - On the home page you can see that new members can try out the gym for one week free of charge.
 - As a user, I what to know what opening hour the gym has.
-    - On the home page you can see under the Why Workout World? That the gym always is open and under the contact page you can see the opening hours of the reception. 
-    
+    - On the home page you can see under the Why Workout World? heading that the gym always is open.
+
 ![Home page desktop](assets/images/home-desktop.jpg) ![Home page mobile](assets/images/home-mobile.jpg)
 #### Memberships 
 - As a user, I want to know what type of memberships the gym offers.
     - At the memberships page the user can see the three different memberships that the gym offers under Our memberships.
 - As a user, I want to know what a membership cost.
-    - At the memberships page the user can see under Our Memberships what the prices of the different memberships is and the sign-up fee. On the same page there is also underneath the membership's information about student discount so that the users that are students can know that the gym offers 15% student discount on all memberships. 
+    - At the memberships page the user can see under Our Memberships what the prices of the different memberships are and the sign-up fee. On the same page there is also underneath the membership's information about student discount so that the users that are students can know that the gym offers 15% student discount on all memberships. 
 
 ![Memberships page desktop](assets/images/memberships-desktop.jpg) ![Memberships page mobile](assets/images/memberships-mobile.jpg)
 #### Class Schedule 
@@ -163,7 +165,9 @@ Below the user stories testing are presented and the manual testing for interact
 ![Class Schedule page desktop](assets/images/schedule-desktop.jpg) ![Class Schedule page mobile](assets/images/schedule-mobile.jpg)
 #### Contact 
 - As a user, I want to find out how to contact the gym.
-    - On the contact page the user can find all the ways they can contact the gym, on phone, email, on sight and via a contact form. The opening outs for the reception is also stated if you want to call or talk to someone on sight.
+    - On the contact page the user can find all the ways they can contact the gym, on phone, email, on sight and via a contact form.
+- As a user, I what to know what opening hour the gym has.
+    - On the contact page the opening hours for the reception is stated so the user knows when they can visit the reception or call the gym.
 - As a user, I what to know where the gym is located.
     - Under the contact page you can see the address to the gym under Contact and on sight.
 
@@ -203,7 +207,7 @@ Changes done to make the webpage responsive on all devices tested:
 *	Changed the schedule from having its breakpoint to col-xl from col-lg because otherwise on iPad Pro Sunday in the schedule dropped down below 
 the other days of the week and stretched the whole width of the screen.
 * Changed the reasons section on the homepage from col-lg-3 to col-xl-3, this was made because otherwise the reasons section
-didn't look good at the ipad pro where it was to thight to fix all the items in this section on in teh same row.  
+didn't look good at the ipad pro where it was to thight to fit all the items in this section in the same row.  
 *	Changed the padding of the social media icons in the footer because other wide they didn’t fit on the same line on the iPad and Galaxy Fold. 
 *	Put in a media query for the logo on screen sizes with a wax width of 320px to make the logo smaller because otherwise the logo and navigation
  menu didn’t fit on the same line and dropped down below the logo instead. 
@@ -236,13 +240,15 @@ The Lighthouse scores are first presented for desktop for each page and the seco
 
 ### Bugs 
 #### Fixed bugs
-* It's a gap on the screen to the right on mobile version for everything but the navbar that disappears after pressing something on Moto G4, Glaxy S5 pixel 2, pixel 2 XL iPhone 5/SE, iPhone 6/7/8, iPhone X, Galaxy Fold, Surface duo in Chrome DevTools.
-  After googling this problem I started with cheching that I didn't have any element that was exceeding more than 100% of the screen width. I couldn't find any so I inserted overflow-x: hidden for html and body
-  in my CSS file that I found in [this](https://stackoverflow.com/questions/46012482/unwanted-white-space-on-right-side-in-mobile-view/46012924) thread on Stack Overflow that fixed the problem. 
-* Images don't work when deploying the website on Github. Fixed this by changing the image file paths from absolute to relative instead.
+* A white space on the screen to the right of everything but the navbar on Moto G4, Glaxy S5 pixel 2, pixel 2 XL iPhone 5/SE, iPhone 6/7/8, iPhone X, Galaxy Fold, Surface duo in Chrome DevTools, that disappears after pressing something on the screen.
+  After googling this problem I started with checking that I didn't have any elements that was exceeding more than 100% of the screen width. I couldn't find any so I inserted overflow-x: hidden for html and body
+  in my CSS file that I found in [this](https://stackoverflow.com/questions/46012482/unwanted-white-space-on-right-side-in-mobile-view/46012924) thread on Stack Overflow that fixed the problem.
+* Images don't work when deploying the website on Github. Fixed this by changing the image file paths from absolute to relative instead. 
+It seems like the problem could have appeared because Github don’t like absolute file paths but they worked on Gitpod so I hadn’t notice the problem before deploying the project to Github. 
 
 #### Open bugs
-* Hero images on Class Schedule page and home page and the student discount picture get a bit squashed on internet explorer. 
+* Hero images on Class Schedule page, home page and the student discount picture get a bit squashed together in their container 
+instead of being cropped by the container and the overflow hidden on Internet Explorer.  
  
 ## Deployment
 ### Deploy 
@@ -259,13 +265,13 @@ The Lighthouse scores are first presented for desktop for each page and the seco
 3. This opens a new copy of the workspace at github, this should onely be done once and then you can access the workspace from gitpod. 
 If you press this button again it will create a new copy of the workspace on gitpod. 
 4. The workspace can now be edited locally.
-5. To open a prewiev of the workspace in a full browserwindow, in the terminal window type in the command: python3 -m http.server, an click open browser in the pop-up window down to the right. 
+5. To open a prewiev of the workspace in a full browser window, in the terminal window type in the command: python3 -m http.server, an click open browser in the pop-up window down to the right. 
 
 
 ## Credits 
 
 ### Code 
-Most of the code in this project was written by me, however some of the code I got from other that are presented below. 
+Most of the code in this project was written by me, however some smaller pieces of code I got from other, these are presented below. 
 * The navbar is taken from bootstrap and customized to fit my project. 
 * Bootstrap is used to make the content responsive and to style some elements. 
 * In my CSS file I used a piece of code found in [this](https://stackoverflow.com/questions/46012482/unwanted-white-space-on-right-side-in-mobile-view/46012924) thread on Stack Overflow to fix a layout problem on smaller screen sizes, this is described in more detail in the bugs section. 
